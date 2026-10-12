@@ -1,0 +1,324 @@
+[{
+  "_id": {
+    "$oid": "67a92de139bc623085bf272c"
+  },
+  "ageGroup": "0-5 years",
+  "gender": "female",
+  "classification": "Underwegiht",
+  "bmiRange": "<15"
+},
+{
+  "_id": {
+    "$oid": "67a92de139bc623085bf2737"
+  },
+  "ageGroup": "20-39 years",
+  "gender": "male",
+  "classification": "Overweight",
+  "bmiRange": "25-29.9"
+},
+{
+  "_id": {
+    "$oid": "67a92de139bc623085bf273b"
+  },
+  "ageGroup": "20-39 years",
+  "gender": "female",
+  "classification": "Overweight",
+  "bmiRange": "25-29.9"
+},
+{
+  "_id": {
+    "$oid": "67a92de139bc623085bf273c"
+  },
+  "ageGroup": "20-39 years",
+  "gender": "female",
+  "classification": "Obese",
+  "bmiRange": "≥30"
+},
+{
+  "_id": {
+    "$oid": "67a92de139bc623085bf273d"
+  },
+  "ageGroup": "40-59 years",
+  "gender": "male",
+  "classification": "Underweight",
+  "bmiRange": "<18.5"
+},
+{
+  "_id": {
+    "$oid": "67a92de139bc623085bf2741"
+  },
+  "ageGroup": "40-59 years",
+  "gender": "female",
+  "classification": "Underweight",
+  "bmiRange": "<18.5"
+},
+{
+  "_id": {
+    "$oid": "67a92de139bc623085bf2748"
+  },
+  "ageGroup": "60+ years",
+  "gender": "male",
+  "classification": "Obese",
+  "bmiRange": "≥30"
+},
+{
+  "_id": {
+    "$oid": "67a92de139bc623085bf274b"
+  },
+  "ageGroup": "60+ years",
+  "gender": "female",
+  "classification": "Overweight",
+  "bmiRange": "25-29.9"
+},
+{
+  "_id": {
+    "$oid": "67a92de139bc623085bf274c"
+  },
+  "ageGroup": "60+ years",
+  "gender": "female",
+  "classification": "Obese",
+  "bmiRange": "≥30"
+},
+{
+  "_id": {
+    "$oid": "67a92de139bc623085bf272a"
+  },
+  "ageGroup": "0-5 years",
+  "gender": "male",
+  "classification": "Normal",
+  "bmiRange": "15-18.5"
+},
+{
+  "_id": {
+    "$oid": "67a92de139bc623085bf272b"
+  },
+  "ageGroup": "0-5 years",
+  "gender": "male",
+  "classification": "Overweight",
+  "bmiRange": ">18.5"
+},
+{
+  "_id": {
+    "$oid": "67a92de139bc623085bf272d"
+  },
+  "ageGroup": "0-5 years",
+  "gender": "female",
+  "classification": "Normal",
+  "bmiRange": "15-18.5"
+},
+{
+  "_id": {
+    "$oid": "67a92de139bc623085bf272e"
+  },
+  "ageGroup": "0-5 years",
+  "gender": "female",
+  "classification": "Overweight",
+  "bmiRange": ">18.5"
+},
+{
+  "_id": {
+    "$oid": "67a92de139bc623085bf2730"
+  },
+  "ageGroup": "5-19 years",
+  "gender": "male",
+  "classification": "Normal",
+  "bmiRange": "17-24.9"
+},
+{
+  "_id": {
+    "$oid": "67a92de139bc623085bf2731"
+  },
+  "ageGroup": "5-19 years",
+  "gender": "male",
+  "classification": "Overweight/Obese",
+  "bmiRange": "≥25"
+},
+{
+  "_id": {
+    "$oid": "67a92de139bc623085bf2739"
+  },
+  "ageGroup": "20-39 years",
+  "gender": "female",
+  "classification": "Underweight",
+  "bmiRange": "<18.5"
+},
+{
+  "_id": {
+    "$oid": "67a92de139bc623085bf2746"
+  },
+  "ageGroup": "60+ years",
+  "gender": "male",
+  "classification": "Normal",
+  "bmiRange": "18.5-24.9"
+},
+{
+  "_id": {
+    "$oid": "67a92de139bc623085bf2749"
+  },
+  "ageGroup": "60+ years",
+  "gender": "female",
+  "classification": "Underweight",
+  "bmiRange": "<18.5"
+},
+{
+  "_id": {
+    "$oid": "67a92de139bc623085bf274a"
+  },
+  "ageGroup": "60+ years",
+  "gender": "female",
+  "classification": "Normal",
+  "bmiRange": "18.5-24.9"
+},
+{
+  "_id": {
+    "$oid": "67a92de139bc623085bf2729"
+  },
+  "ageGroup": "0-5 years",
+  "gender": "male",
+  "classification": "Underweight",
+  "bmiRange": "<15"
+},
+{
+  "_id": {
+    "$oid": "67a92de139bc623085bf272f"
+  },
+  "ageGroup": "5-19 years",
+  "gender": "male",
+  "classification": "Underweight",
+  "bmiRange": "<17"
+},
+{
+  "_id": {
+    "$oid": "67a92de139bc623085bf2732"
+  },
+  "ageGroup": "5-19 years",
+  "gender": "female",
+  "classification": "Underweight",
+  "bmiRange": "<17"
+},
+{
+  "_id": {
+    "$oid": "67a92de139bc623085bf2734"
+  },
+  "ageGroup": "5-19 years",
+  "gender": "female",
+  "classification": "Overweight/Obese",
+  "bmiRange": "≥25"
+},
+{
+  "_id": {
+    "$oid": "67a92de139bc623085bf2735"
+  },
+  "ageGroup": "20-39 years",
+  "gender": "male",
+  "classification": "Underweight",
+  "bmiRange": "<18.5"
+},
+{
+  "_id": {
+    "$oid": "67a92de139bc623085bf273a"
+  },
+  "ageGroup": "20-39 years",
+  "gender": "female",
+  "classification": "Normal",
+  "bmiRange": "18.5-24.9"
+},
+{
+  "_id": {
+    "$oid": "67a92de139bc623085bf273f"
+  },
+  "ageGroup": "40-59 years",
+  "gender": "male",
+  "classification": "Overweight",
+  "bmiRange": "25-29.9"
+},
+{
+  "_id": {
+    "$oid": "67a92de139bc623085bf2743"
+  },
+  "ageGroup": "40-59 years",
+  "gender": "female",
+  "classification": "Overweight",
+  "bmiRange": "25-29.9"
+},
+{
+  "_id": {
+    "$oid": "67a92de139bc623085bf2744"
+  },
+  "ageGroup": "40-59 years",
+  "gender": "female",
+  "classification": "Obese",
+  "bmiRange": "≥30"
+},
+{
+  "_id": {
+    "$oid": "67a92de139bc623085bf2747"
+  },
+  "ageGroup": "60+ years",
+  "gender": "male",
+  "classification": "Overweight",
+  "bmiRange": "25-29.9"
+},
+{
+  "_id": {
+    "$oid": "67a92de139bc623085bf2733"
+  },
+  "ageGroup": "5-19 years",
+  "gender": "female",
+  "classification": "Normal",
+  "bmiRange": "17-24.9"
+},
+{
+  "_id": {
+    "$oid": "67a92de139bc623085bf2736"
+  },
+  "ageGroup": "20-39 years",
+  "gender": "male",
+  "classification": "Normal",
+  "bmiRange": "18.5-24.9"
+},
+{
+  "_id": {
+    "$oid": "67a92de139bc623085bf2738"
+  },
+  "ageGroup": "20-39 years",
+  "gender": "male",
+  "classification": "Obese",
+  "bmiRange": "≥30"
+},
+{
+  "_id": {
+    "$oid": "67a92de139bc623085bf273e"
+  },
+  "ageGroup": "40-59 years",
+  "gender": "male",
+  "classification": "Normal",
+  "bmiRange": "18.5-24.9"
+},
+{
+  "_id": {
+    "$oid": "67a92de139bc623085bf2740"
+  },
+  "ageGroup": "40-59 years",
+  "gender": "male",
+  "classification": "Obese",
+  "bmiRange": "≥30"
+},
+{
+  "_id": {
+    "$oid": "67a92de139bc623085bf2742"
+  },
+  "ageGroup": "40-59 years",
+  "gender": "female",
+  "classification": "Normal",
+  "bmiRange": "18.5-24.9"
+},
+{
+  "_id": {
+    "$oid": "67a92de139bc623085bf2745"
+  },
+  "ageGroup": "60+ years",
+  "gender": "male",
+  "classification": "Underweight",
+  "bmiRange": "<18.5"
+}]

@@ -1,0 +1,284 @@
+Afghani Pulao
+Almond Milk
+Aloo Curry
+Aloo Gosht
+Aloo Bukhara
+Alucha
+Amlok
+Amrood
+Anar
+Apple
+Apricot
+Banana
+Banana Shake
+Beef Burger
+Beef Korma
+Besan Ladoo
+Black Berry
+Carbonated Beverages
+Chana Daal With Ghee Tarka
+Chapli Kabab
+Cheese Ball
+Cheese Garlic Bread
+Chicken Burger
+Chicken Malai Boti
+Chicken Nuggets
+Chicken Sajji With Rice
+Chicken Shawarma
+Chicken Strips
+Chicken Wings
+Chinese Hotpot
+Chocolate Custard
+Club Sandwich
+Coconut Ladoo
+Coffee Cappucinno
+Coffee Espresso
+Coffee Iced Latte
+Coffee Latte
+Custard
+Dates
+Doodh Jalebi
+Doodh Patti
+Egg Custard
+Falsa
+Falsa Juice
+Fried Rice
+Fruit Custard
+Fruit Smoothie
+Gosht
+Grapes
+Green Tea
+Jamun
+Kalay Chanay
+Kashmiri Chai
+Kinno
+Lahori Fried Fish
+Lasagna With Chicken
+Lasagna With Meat
+Lassi
+Lemon
+Lemon Juice
+Loaded Fries
+Low-Fat Custard
+Lukhnowi Korma
+Lychee
+Macaroni
+Malta
+Mango Juice
+Mango Ripe
+Milk Cake
+Mutton Pulao
+Naan
+Narangi
+Nashpati
+Noodles
+Papita
+Paratha Shawarma
+Pasta
+Peshawari Karahi
+Pineapple
+Pizza
+Protein Shake
+Rabri
+Rasgulla
+Rooh Afza
+Rusmalai
+Sajji
+Sarda
+Shikarpuri Achar
+Sindhi Kadhi
+Spaghetti
+Stawberry
+Tarbuz
+Tikka Kabab
+Vanilla Custard
+Vegetable Jalfrezi
+Zinger Burger
+Achari Chicken
+Akhrot
+Aloo Capsicum
+Aloo Chaat
+Aloo Gawar Phali
+Aloo Gobhi
+Aloo Ki Bhujia
+Aloo Matar
+Aloo Methi
+Aloo Mungray
+Aloo Paratha
+Aloo Qeema
+Aloo Tikki
+Aloo Turai
+Anda Bhurji
+Anda Chana
+Anday Ka Halwa
+Anday Wala Burger
+Arbi Sabzi
+Badam
+Baingan Ka Bharta
+Banana Kheer
+Barfi
+Beef Chili Dry
+Besan Ka Halwa
+Bhel Puri
+Bhindi
+Bhuna Gosht
+Bihari Kabab
+Biryani
+Biscuit
+Boiled Egg
+Bun Kebab
+Butter Chicken
+Chana Daal Halwa
+Chana Masala
+Chana_Puri
+Chapati
+Chicken Cheese Omelette
+Chicken Chungay
+Chicken Ginger Curry
+Chicken Handi
+Chicken Patties
+Chicken Sandwiches
+Chicken Shashlik
+Chicken Yakhni Soup
+Chilgoza
+Chinese Spring Rolls
+Chow Mein
+Crab
+Curry Pakora
+Daal Chawal
+Daal Gosht
+Daal Mash
+Dahi Baingan
+Dahi Bhalla
+Dahi Papri Chaat
+Dahi Puri
+Desi Murgh
+Dhokla
+Donuts
+Double Roti
+Dum Arbi
+Dum Pukht
+Dumplings
+Egg Fried
+Fafda
+Falooda
+Feerni
+Fish (Khaga)
+Fish (Promfret)
+Fish (Roa)
+Fish (Shanghara)
+Fish (Soal)
+Fish (Surmai)
+Fish Biryani
+Fish Karahi
+Fish Pakora
+Fish Tikka
+French Toast
+Fried Aloo
+Fried Chicken Wings
+Fried Fish
+Gobi Manchurian
+Gobi Paratha
+Gol Gappay
+Gola Kabab
+Gur Wala Parathay
+Haleem
+Halwa Gajjar
+Halwa Puri
+Halwa Suji
+Hot And Sour Soup
+Icecream
+Idli
+Jalebi With Rabri
+Jaleebi
+Jau Ki Roti
+Kachori With Chutney
+Kaddu Ka Halwa
+Kaju
+Kaju Katli
+Karahi
+Karela Gosht
+Kat A Kat
+Keema
+Keema Paratha
+Kheer
+Khopra
+Khow Suey
+Khoya
+Kichri
+Kofta
+Kulcha
+Kulfi
+Kung Pao Beef
+Lab E Shireen
+Lachha Paratha
+Lahori Chargha
+Lemon Chicken
+Lobia
+Makki Roti
+Malai Boti
+Masoor Dal
+Matar
+Matar Paneer
+Mathri
+Methi Chicken
+Mint Raita
+Mithai
+Mix Sabzi
+Mooli Paratha
+Muffin
+Murgh Makhni
+Mutton Chops Masala
+Mutton Handi
+Namak Paray
+Nihari
+Ojri
+Omelette
+Pakoras
+Palak Gosht
+Palak Paneer
+Pancakes
+Paratha
+Paratha Rolls
+Paya
+Peshawari Chapli Kebab
+Pista
+Prawn
+Prawn Karahi
+Pulao
+Qorma
+Raan Roast
+Raita
+Rajma Chawal
+Roghni Naan
+Saag Paneera
+Samosa
+Samosa Chaat
+Sarson Ka Saag
+Seekh Kabab
+Seviyan
+Shalgam Ki Sabzi
+Shami Kabab
+Sheer Khurma
+Sheermal
+Sindhi Biryani
+Siri Paye
+Sohan Halwa
+Sonf
+Soup
+Supari
+Sweet And Sour Chicken
+Tandoori Chicken
+Tandoori Chicken Wraps
+Tandoori Fish
+Tandoori Roti
+Tikka Boti
+Tinda Sabzi
+Trifle
+Upma
+Vegetable Pakora
+Vegetable Spring Rolls
+White Dalia
+White Karahi
+Yogurt
+Zarda

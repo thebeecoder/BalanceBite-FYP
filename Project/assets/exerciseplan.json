@@ -1,0 +1,3168 @@
+[{
+  "_id": {
+    "$oid": "681976534d217ec192411c9d"
+  },
+  "Gender": "Male",
+  "User Goal": "Lose Weight",
+  "Activity Level": "Beginner",
+  "Day": "Monday",
+  "Exercise Name": "Brisk Walking",
+  "Sets": 1,
+  "Reps/Duration": "30 min",
+  "Calories Burned": 150
+},
+{
+  "_id": {
+    "$oid": "681976534d217ec192411c9e"
+  },
+  "Gender": "Male",
+  "User Goal": "Lose Weight",
+  "Activity Level": "Beginner",
+  "Day": "Tuesday",
+  "Exercise Name": "Bodyweight Circuit (Squats, Pushups, Lunges)",
+  "Sets": 3,
+  "Reps/Duration": "12 reps each",
+  "Calories Burned": 180
+},
+{
+  "_id": {
+    "$oid": "681976534d217ec192411c9f"
+  },
+  "Gender": "Male",
+  "User Goal": "Lose Weight",
+  "Activity Level": "Beginner",
+  "Day": "Wednesday",
+  "Exercise Name": "Cycling",
+  "Sets": 1,
+  "Reps/Duration": "30 min",
+  "Calories Burned": 200
+},
+{
+  "_id": {
+    "$oid": "681976534d217ec192411ca0"
+  },
+  "Gender": "Male",
+  "User Goal": "Lose Weight",
+  "Activity Level": "Beginner",
+  "Day": "Thursday",
+  "Exercise Name": "Yoga/Stretching",
+  "Sets": 1,
+  "Reps/Duration": "40 min",
+  "Calories Burned": 100
+},
+{
+  "_id": {
+    "$oid": "681976534d217ec192411ca1"
+  },
+  "Gender": "Male",
+  "User Goal": "Lose Weight",
+  "Activity Level": "Beginner",
+  "Day": "Friday",
+  "Exercise Name": "Jogging",
+  "Sets": 1,
+  "Reps/Duration": "20 min",
+  "Calories Burned": 180
+},
+{
+  "_id": {
+    "$oid": "681976534d217ec192411ca2"
+  },
+  "Gender": "Male",
+  "User Goal": "Lose Weight",
+  "Activity Level": "Beginner",
+  "Day": "Saturday",
+  "Exercise Name": "HIIT (Jumping Jacks, Mountain Climbers, Plank)",
+  "Sets": 3,
+  "Reps/Duration": "10 reps each",
+  "Calories Burned": 220
+},
+{
+  "_id": {
+    "$oid": "681976534d217ec192411ca3"
+  },
+  "Gender": "Male",
+  "User Goal": "Lose Weight",
+  "Activity Level": "Beginner",
+  "Day": "Sunday",
+  "Notes": "Cheat Day"
+},
+{
+  "_id": {
+    "$oid": "681976534d217ec192411ca4"
+  },
+  "Gender": "Male",
+  "User Goal": "Lose Weight",
+  "Activity Level": "Intermediate",
+  "Day": "Monday",
+  "Exercise Name": "Jogging",
+  "Sets": 1,
+  "Reps/Duration": "40 min",
+  "Calories Burned": 320
+},
+{
+  "_id": {
+    "$oid": "681976534d217ec192411ca5"
+  },
+  "Gender": "Male",
+  "User Goal": "Lose Weight",
+  "Activity Level": "Intermediate",
+  "Day": "Tuesday",
+  "Exercise Name": "HIIT (Burpees, Squat Jumps, Plank)",
+  "Sets": 4,
+  "Reps/Duration": "15 reps each",
+  "Calories Burned": 300
+},
+{
+  "_id": {
+    "$oid": "681976534d217ec192411ca6"
+  },
+  "Gender": "Male",
+  "User Goal": "Lose Weight",
+  "Activity Level": "Intermediate",
+  "Day": "Wednesday",
+  "Exercise Name": "Cycling",
+  "Sets": 1,
+  "Reps/Duration": "45 min",
+  "Calories Burned": 350
+},
+{
+  "_id": {
+    "$oid": "681976534d217ec192411ca7"
+  },
+  "Gender": "Male",
+  "User Goal": "Lose Weight",
+  "Activity Level": "Intermediate",
+  "Day": "Thursday",
+  "Exercise Name": "Strength Circuit",
+  "Sets": 3,
+  "Reps/Duration": "15 reps each",
+  "Calories Burned": 250
+},
+{
+  "_id": {
+    "$oid": "681976534d217ec192411ca8"
+  },
+  "Gender": "Male",
+  "User Goal": "Lose Weight",
+  "Activity Level": "Intermediate",
+  "Day": "Friday",
+  "Exercise Name": "Swimming",
+  "Sets": 1,
+  "Reps/Duration": "30 min",
+  "Calories Burned": 250
+},
+{
+  "_id": {
+    "$oid": "681976534d217ec192411ca9"
+  },
+  "Gender": "Male",
+  "User Goal": "Lose Weight",
+  "Activity Level": "Intermediate",
+  "Day": "Saturday",
+  "Exercise Name": "Pilates",
+  "Sets": 1,
+  "Reps/Duration": "45 min",
+  "Calories Burned": 180
+},
+{
+  "_id": {
+    "$oid": "681976534d217ec192411caa"
+  },
+  "Gender": "Male",
+  "User Goal": "Lose Weight",
+  "Activity Level": "Intermediate",
+  "Day": "Sunday",
+  "Notes": "Cheat Day"
+},
+{
+  "_id": {
+    "$oid": "681976534d217ec192411cab"
+  },
+  "Gender": "Male",
+  "User Goal": "Lose Weight",
+  "Activity Level": "Advanced",
+  "Day": "Monday",
+  "Exercise Name": "Running",
+  "Sets": 1,
+  "Reps/Duration": "60 min",
+  "Calories Burned": 600
+},
+{
+  "_id": {
+    "$oid": "681976534d217ec192411cac"
+  },
+  "Gender": "Male",
+  "User Goal": "Lose Weight",
+  "Activity Level": "Advanced",
+  "Day": "Tuesday",
+  "Exercise Name": "HIIT (Sprints, Burpees, Plank)",
+  "Sets": 5,
+  "Reps/Duration": "20 reps each",
+  "Calories Burned": 400
+},
+{
+  "_id": {
+    "$oid": "681976534d217ec192411cad"
+  },
+  "Gender": "Male",
+  "User Goal": "Lose Weight",
+  "Activity Level": "Advanced",
+  "Day": "Wednesday",
+  "Exercise Name": "CrossFit",
+  "Sets": 1,
+  "Reps/Duration": "45 min",
+  "Calories Burned": 500
+},
+{
+  "_id": {
+    "$oid": "681976534d217ec192411cae"
+  },
+  "Gender": "Male",
+  "User Goal": "Lose Weight",
+  "Activity Level": "Advanced",
+  "Day": "Thursday",
+  "Exercise Name": "Strength Training",
+  "Sets": 4,
+  "Reps/Duration": "20 reps each",
+  "Calories Burned": 350
+},
+{
+  "_id": {
+    "$oid": "681976534d217ec192411caf"
+  },
+  "Gender": "Male",
+  "User Goal": "Lose Weight",
+  "Activity Level": "Advanced",
+  "Day": "Friday",
+  "Exercise Name": "Swimming",
+  "Sets": 1,
+  "Reps/Duration": "45 min",
+  "Calories Burned": 350
+},
+{
+  "_id": {
+    "$oid": "681976534d217ec192411cb0"
+  },
+  "Gender": "Male",
+  "User Goal": "Lose Weight",
+  "Activity Level": "Advanced",
+  "Day": "Saturday",
+  "Exercise Name": "Boxing",
+  "Sets": 1,
+  "Reps/Duration": "40 min",
+  "Calories Burned": 400
+},
+{
+  "_id": {
+    "$oid": "681976534d217ec192411cb1"
+  },
+  "Gender": "Male",
+  "User Goal": "Lose Weight",
+  "Activity Level": "Advanced",
+  "Day": "Sunday",
+  "Notes": "Cheat Day"
+},
+{
+  "_id": {
+    "$oid": "681976534d217ec192411cb2"
+  },
+  "Gender": "Male",
+  "User Goal": "Gain Weight",
+  "Activity Level": "Beginner",
+  "Day": "Monday",
+  "Exercise Name": "Bodyweight Strength (Pushups, Squats, Lunges)",
+  "Sets": 3,
+  "Reps/Duration": "10 reps each",
+  "Calories Burned": 120
+},
+{
+  "_id": {
+    "$oid": "681976534d217ec192411cb3"
+  },
+  "Gender": "Male",
+  "User Goal": "Gain Weight",
+  "Activity Level": "Beginner",
+  "Day": "Tuesday",
+  "Exercise Name": "Resistance Band Training",
+  "Sets": 3,
+  "Reps/Duration": "12 reps each",
+  "Calories Burned": 130
+},
+{
+  "_id": {
+    "$oid": "681976534d217ec192411cb4"
+  },
+  "Gender": "Male",
+  "User Goal": "Gain Weight",
+  "Activity Level": "Beginner",
+  "Day": "Wednesday",
+  "Exercise Name": "Yoga/Stretching",
+  "Sets": 1,
+  "Reps/Duration": "30 min",
+  "Calories Burned": 80
+},
+{
+  "_id": {
+    "$oid": "681976534d217ec192411cb5"
+  },
+  "Gender": "Male",
+  "User Goal": "Gain Weight",
+  "Activity Level": "Beginner",
+  "Day": "Thursday",
+  "Exercise Name": "Brisk Walking",
+  "Sets": 1,
+  "Reps/Duration": "20 min",
+  "Calories Burned": 100
+},
+{
+  "_id": {
+    "$oid": "681976534d217ec192411cb6"
+  },
+  "Gender": "Male",
+  "User Goal": "Gain Weight",
+  "Activity Level": "Beginner",
+  "Day": "Friday",
+  "Exercise Name": "Core Training",
+  "Sets": 2,
+  "Reps/Duration": "10 reps each",
+  "Calories Burned": 90
+},
+{
+  "_id": {
+    "$oid": "681976534d217ec192411cb7"
+  },
+  "Gender": "Male",
+  "User Goal": "Gain Weight",
+  "Activity Level": "Beginner",
+  "Day": "Saturday",
+  "Exercise Name": "Light Dumbbell Circuit",
+  "Sets": 2,
+  "Reps/Duration": "10 reps each",
+  "Calories Burned": 110
+},
+{
+  "_id": {
+    "$oid": "681976534d217ec192411cb8"
+  },
+  "Gender": "Male",
+  "User Goal": "Gain Weight",
+  "Activity Level": "Beginner",
+  "Day": "Sunday",
+  "Notes": "Cheat Day"
+},
+{
+  "_id": {
+    "$oid": "681976534d217ec192411cb9"
+  },
+  "Gender": "Male",
+  "User Goal": "Gain Weight",
+  "Activity Level": "Intermediate",
+  "Day": "Monday",
+  "Exercise Name": "Strength Training",
+  "Sets": 3,
+  "Reps/Duration": "12 reps each",
+  "Calories Burned": 200
+},
+{
+  "_id": {
+    "$oid": "681976534d217ec192411cba"
+  },
+  "Gender": "Male",
+  "User Goal": "Gain Weight",
+  "Activity Level": "Intermediate",
+  "Day": "Tuesday",
+  "Exercise Name": "Resistance Band Circuit",
+  "Sets": 3,
+  "Reps/Duration": "15 reps each",
+  "Calories Burned": 180
+},
+{
+  "_id": {
+    "$oid": "681976534d217ec192411cbb"
+  },
+  "Gender": "Male",
+  "User Goal": "Gain Weight",
+  "Activity Level": "Intermediate",
+  "Day": "Wednesday",
+  "Exercise Name": "Jogging",
+  "Sets": 1,
+  "Reps/Duration": "30 min",
+  "Calories Burned": 180
+},
+{
+  "_id": {
+    "$oid": "681976534d217ec192411cbc"
+  },
+  "Gender": "Male",
+  "User Goal": "Gain Weight",
+  "Activity Level": "Intermediate",
+  "Day": "Thursday",
+  "Exercise Name": "Core & Abs",
+  "Sets": 3,
+  "Reps/Duration": "15 reps each",
+  "Calories Burned": 120
+},
+{
+  "_id": {
+    "$oid": "681976534d217ec192411cbd"
+  },
+  "Gender": "Male",
+  "User Goal": "Gain Weight",
+  "Activity Level": "Intermediate",
+  "Day": "Friday",
+  "Exercise Name": "Dumbbell Circuit",
+  "Sets": 3,
+  "Reps/Duration": "12 reps each",
+  "Calories Burned": 160
+},
+{
+  "_id": {
+    "$oid": "681976534d217ec192411cbe"
+  },
+  "Gender": "Male",
+  "User Goal": "Gain Weight",
+  "Activity Level": "Intermediate",
+  "Day": "Saturday",
+  "Exercise Name": "Yoga",
+  "Sets": 1,
+  "Reps/Duration": "40 min",
+  "Calories Burned": 90
+},
+{
+  "_id": {
+    "$oid": "681976534d217ec192411cbf"
+  },
+  "Gender": "Male",
+  "User Goal": "Gain Weight",
+  "Activity Level": "Intermediate",
+  "Day": "Sunday",
+  "Notes": "Cheat Day"
+},
+{
+  "_id": {
+    "$oid": "681976534d217ec192411cc0"
+  },
+  "Gender": "Male",
+  "User Goal": "Gain Weight",
+  "Activity Level": "Advanced",
+  "Day": "Monday",
+  "Exercise Name": "Heavy Strength Training",
+  "Sets": 4,
+  "Reps/Duration": "10 reps each",
+  "Calories Burned": 300
+},
+{
+  "_id": {
+    "$oid": "681976534d217ec192411cc1"
+  },
+  "Gender": "Male",
+  "User Goal": "Gain Weight",
+  "Activity Level": "Advanced",
+  "Day": "Tuesday",
+  "Exercise Name": "CrossFit",
+  "Sets": 1,
+  "Reps/Duration": "40 min",
+  "Calories Burned": 350
+},
+{
+  "_id": {
+    "$oid": "681976534d217ec192411cc2"
+  },
+  "Gender": "Male",
+  "User Goal": "Gain Weight",
+  "Activity Level": "Advanced",
+  "Day": "Wednesday",
+  "Exercise Name": "HIIT",
+  "Sets": 4,
+  "Reps/Duration": "15 reps each",
+  "Calories Burned": 250
+},
+{
+  "_id": {
+    "$oid": "681976534d217ec192411cc3"
+  },
+  "Gender": "Male",
+  "User Goal": "Gain Weight",
+  "Activity Level": "Advanced",
+  "Day": "Thursday",
+  "Exercise Name": "Running",
+  "Sets": 1,
+  "Reps/Duration": "30 min",
+  "Calories Burned": 300
+},
+{
+  "_id": {
+    "$oid": "681976534d217ec192411cc4"
+  },
+  "Gender": "Male",
+  "User Goal": "Gain Weight",
+  "Activity Level": "Advanced",
+  "Day": "Friday",
+  "Exercise Name": "Powerlifting",
+  "Sets": 4,
+  "Reps/Duration": "8 reps each",
+  "Calories Burned": 320
+},
+{
+  "_id": {
+    "$oid": "681976534d217ec192411cc5"
+  },
+  "Gender": "Male",
+  "User Goal": "Gain Weight",
+  "Activity Level": "Advanced",
+  "Day": "Saturday",
+  "Exercise Name": "Boxing",
+  "Sets": 1,
+  "Reps/Duration": "30 min",
+  "Calories Burned": 250
+},
+{
+  "_id": {
+    "$oid": "681976534d217ec192411cc6"
+  },
+  "Gender": "Male",
+  "User Goal": "Gain Weight",
+  "Activity Level": "Advanced",
+  "Day": "Sunday",
+  "Notes": "Cheat Day"
+},
+{
+  "_id": {
+    "$oid": "681976534d217ec192411cc7"
+  },
+  "Gender": "Male",
+  "User Goal": "Muscle Mass Gain",
+  "Activity Level": "Beginner",
+  "Day": "Monday",
+  "Exercise Name": "Full Body Strength",
+  "Sets": 3,
+  "Reps/Duration": "10 reps each",
+  "Calories Burned": 150
+},
+{
+  "_id": {
+    "$oid": "681976534d217ec192411cc8"
+  },
+  "Gender": "Male",
+  "User Goal": "Muscle Mass Gain",
+  "Activity Level": "Beginner",
+  "Day": "Tuesday",
+  "Exercise Name": "Push/Pull/Legs Split",
+  "Sets": 3,
+  "Reps/Duration": "10 reps each",
+  "Calories Burned": 160
+},
+{
+  "_id": {
+    "$oid": "681976534d217ec192411cc9"
+  },
+  "Gender": "Male",
+  "User Goal": "Muscle Mass Gain",
+  "Activity Level": "Beginner",
+  "Day": "Wednesday",
+  "Exercise Name": "Resistance Band Training",
+  "Sets": 3,
+  "Reps/Duration": "12 reps each",
+  "Calories Burned": 130
+},
+{
+  "_id": {
+    "$oid": "681976534d217ec192411cca"
+  },
+  "Gender": "Male",
+  "User Goal": "Muscle Mass Gain",
+  "Activity Level": "Beginner",
+  "Day": "Thursday",
+  "Exercise Name": "Core Training",
+  "Sets": 2,
+  "Reps/Duration": "10 reps each",
+  "Calories Burned": 90
+},
+{
+  "_id": {
+    "$oid": "681976534d217ec192411ccb"
+  },
+  "Gender": "Male",
+  "User Goal": "Muscle Mass Gain",
+  "Activity Level": "Beginner",
+  "Day": "Friday",
+  "Exercise Name": "Yoga/Stretching",
+  "Sets": 1,
+  "Reps/Duration": "30 min",
+  "Calories Burned": 80
+},
+{
+  "_id": {
+    "$oid": "681976534d217ec192411ccc"
+  },
+  "Gender": "Male",
+  "User Goal": "Muscle Mass Gain",
+  "Activity Level": "Beginner",
+  "Day": "Saturday",
+  "Exercise Name": "Light Dumbbell Circuit",
+  "Sets": 2,
+  "Reps/Duration": "10 reps each",
+  "Calories Burned": 110
+},
+{
+  "_id": {
+    "$oid": "681976534d217ec192411ccd"
+  },
+  "Gender": "Male",
+  "User Goal": "Muscle Mass Gain",
+  "Activity Level": "Beginner",
+  "Day": "Sunday",
+  "Notes": "Cheat Day"
+},
+{
+  "_id": {
+    "$oid": "681976534d217ec192411cce"
+  },
+  "Gender": "Male",
+  "User Goal": "Muscle Mass Gain",
+  "Activity Level": "Intermediate",
+  "Day": "Monday",
+  "Exercise Name": "Upper/Lower Split",
+  "Sets": 4,
+  "Reps/Duration": "12 reps each",
+  "Calories Burned": 200
+},
+{
+  "_id": {
+    "$oid": "681976534d217ec192411ccf"
+  },
+  "Gender": "Male",
+  "User Goal": "Muscle Mass Gain",
+  "Activity Level": "Intermediate",
+  "Day": "Tuesday",
+  "Exercise Name": "Strength Training",
+  "Sets": 4,
+  "Reps/Duration": "10 reps each",
+  "Calories Burned": 220
+},
+{
+  "_id": {
+    "$oid": "681976534d217ec192411cd0"
+  },
+  "Gender": "Male",
+  "User Goal": "Muscle Mass Gain",
+  "Activity Level": "Intermediate",
+  "Day": "Wednesday",
+  "Exercise Name": "Dumbbell Circuit",
+  "Sets": 3,
+  "Reps/Duration": "12 reps each",
+  "Calories Burned": 160
+},
+{
+  "_id": {
+    "$oid": "681976534d217ec192411cd1"
+  },
+  "Gender": "Male",
+  "User Goal": "Muscle Mass Gain",
+  "Activity Level": "Intermediate",
+  "Day": "Thursday",
+  "Exercise Name": "Core & Abs",
+  "Sets": 3,
+  "Reps/Duration": "15 reps each",
+  "Calories Burned": 120
+},
+{
+  "_id": {
+    "$oid": "681976534d217ec192411cd2"
+  },
+  "Gender": "Male",
+  "User Goal": "Muscle Mass Gain",
+  "Activity Level": "Intermediate",
+  "Day": "Friday",
+  "Exercise Name": "Yoga",
+  "Sets": 1,
+  "Reps/Duration": "40 min",
+  "Calories Burned": 90
+},
+{
+  "_id": {
+    "$oid": "681976534d217ec192411cd3"
+  },
+  "Gender": "Male",
+  "User Goal": "Muscle Mass Gain",
+  "Activity Level": "Intermediate",
+  "Day": "Saturday",
+  "Exercise Name": "HIIT",
+  "Sets": 3,
+  "Reps/Duration": "12 reps each",
+  "Calories Burned": 180
+},
+{
+  "_id": {
+    "$oid": "681976534d217ec192411cd4"
+  },
+  "Gender": "Male",
+  "User Goal": "Muscle Mass Gain",
+  "Activity Level": "Intermediate",
+  "Day": "Sunday",
+  "Notes": "Cheat Day"
+},
+{
+  "_id": {
+    "$oid": "681976534d217ec192411cd5"
+  },
+  "Gender": "Male",
+  "User Goal": "Muscle Mass Gain",
+  "Activity Level": "Advanced",
+  "Day": "Monday",
+  "Exercise Name": "Heavy Strength Training",
+  "Sets": 5,
+  "Reps/Duration": "8 reps each",
+  "Calories Burned": 300
+},
+{
+  "_id": {
+    "$oid": "681976534d217ec192411cd6"
+  },
+  "Gender": "Male",
+  "User Goal": "Muscle Mass Gain",
+  "Activity Level": "Advanced",
+  "Day": "Tuesday",
+  "Exercise Name": "Powerlifting",
+  "Sets": 4,
+  "Reps/Duration": "8 reps each",
+  "Calories Burned": 320
+},
+{
+  "_id": {
+    "$oid": "681976534d217ec192411cd7"
+  },
+  "Gender": "Male",
+  "User Goal": "Muscle Mass Gain",
+  "Activity Level": "Advanced",
+  "Day": "Wednesday",
+  "Exercise Name": "CrossFit",
+  "Sets": 1,
+  "Reps/Duration": "40 min",
+  "Calories Burned": 350
+},
+{
+  "_id": {
+    "$oid": "681976534d217ec192411cd8"
+  },
+  "Gender": "Male",
+  "User Goal": "Muscle Mass Gain",
+  "Activity Level": "Advanced",
+  "Day": "Thursday",
+  "Exercise Name": "HIIT",
+  "Sets": 4,
+  "Reps/Duration": "15 reps each",
+  "Calories Burned": 250
+},
+{
+  "_id": {
+    "$oid": "681976534d217ec192411cd9"
+  },
+  "Gender": "Male",
+  "User Goal": "Muscle Mass Gain",
+  "Activity Level": "Advanced",
+  "Day": "Friday",
+  "Exercise Name": "Running",
+  "Sets": 1,
+  "Reps/Duration": "30 min",
+  "Calories Burned": 300
+},
+{
+  "_id": {
+    "$oid": "681976534d217ec192411cda"
+  },
+  "Gender": "Male",
+  "User Goal": "Muscle Mass Gain",
+  "Activity Level": "Advanced",
+  "Day": "Saturday",
+  "Exercise Name": "Boxing",
+  "Sets": 1,
+  "Reps/Duration": "30 min",
+  "Calories Burned": 250
+},
+{
+  "_id": {
+    "$oid": "681976534d217ec192411cdb"
+  },
+  "Gender": "Male",
+  "User Goal": "Muscle Mass Gain",
+  "Activity Level": "Advanced",
+  "Day": "Sunday",
+  "Notes": "Cheat Day"
+},
+{
+  "_id": {
+    "$oid": "681976534d217ec192411cdc"
+  },
+  "Gender": "Male",
+  "User Goal": "Shape Body",
+  "Activity Level": "Beginner",
+  "Day": "Monday",
+  "Exercise Name": "Pilates",
+  "Sets": 1,
+  "Reps/Duration": "30 min",
+  "Calories Burned": 90
+},
+{
+  "_id": {
+    "$oid": "681976534d217ec192411cdd"
+  },
+  "Gender": "Male",
+  "User Goal": "Shape Body",
+  "Activity Level": "Beginner",
+  "Day": "Tuesday",
+  "Exercise Name": "Yoga",
+  "Sets": 1,
+  "Reps/Duration": "40 min",
+  "Calories Burned": 80
+},
+{
+  "_id": {
+    "$oid": "681976534d217ec192411cde"
+  },
+  "Gender": "Male",
+  "User Goal": "Shape Body",
+  "Activity Level": "Beginner",
+  "Day": "Wednesday",
+  "Exercise Name": "Brisk Walking",
+  "Sets": 1,
+  "Reps/Duration": "30 min",
+  "Calories Burned": 120
+},
+{
+  "_id": {
+    "$oid": "681976534d217ec192411cdf"
+  },
+  "Gender": "Male",
+  "User Goal": "Shape Body",
+  "Activity Level": "Beginner",
+  "Day": "Thursday",
+  "Exercise Name": "Bodyweight Circuit",
+  "Sets": 2,
+  "Reps/Duration": "10 reps each",
+  "Calories Burned": 110
+},
+{
+  "_id": {
+    "$oid": "681976534d217ec192411ce0"
+  },
+  "Gender": "Male",
+  "User Goal": "Shape Body",
+  "Activity Level": "Beginner",
+  "Day": "Friday",
+  "Exercise Name": "Core Training",
+  "Sets": 2,
+  "Reps/Duration": "10 reps each",
+  "Calories Burned": 90
+},
+{
+  "_id": {
+    "$oid": "681976534d217ec192411ce1"
+  },
+  "Gender": "Male",
+  "User Goal": "Shape Body",
+  "Activity Level": "Beginner",
+  "Day": "Saturday",
+  "Exercise Name": "Light Dumbbell Circuit",
+  "Sets": 2,
+  "Reps/Duration": "10 reps each",
+  "Calories Burned": 110
+},
+{
+  "_id": {
+    "$oid": "681976534d217ec192411ce2"
+  },
+  "Gender": "Male",
+  "User Goal": "Shape Body",
+  "Activity Level": "Beginner",
+  "Day": "Sunday",
+  "Notes": "Cheat Day"
+},
+{
+  "_id": {
+    "$oid": "681976534d217ec192411ce3"
+  },
+  "Gender": "Male",
+  "User Goal": "Shape Body",
+  "Activity Level": "Intermediate",
+  "Day": "Monday",
+  "Exercise Name": "Pilates",
+  "Sets": 1,
+  "Reps/Duration": "45 min",
+  "Calories Burned": 120
+},
+{
+  "_id": {
+    "$oid": "681976534d217ec192411ce4"
+  },
+  "Gender": "Male",
+  "User Goal": "Shape Body",
+  "Activity Level": "Intermediate",
+  "Day": "Tuesday",
+  "Exercise Name": "Yoga",
+  "Sets": 1,
+  "Reps/Duration": "50 min",
+  "Calories Burned": 100
+},
+{
+  "_id": {
+    "$oid": "681976534d217ec192411ce5"
+  },
+  "Gender": "Male",
+  "User Goal": "Shape Body",
+  "Activity Level": "Intermediate",
+  "Day": "Wednesday",
+  "Exercise Name": "Jogging",
+  "Sets": 1,
+  "Reps/Duration": "30 min",
+  "Calories Burned": 180
+},
+{
+  "_id": {
+    "$oid": "681976534d217ec192411ce6"
+  },
+  "Gender": "Male",
+  "User Goal": "Shape Body",
+  "Activity Level": "Intermediate",
+  "Day": "Thursday",
+  "Exercise Name": "Strength Circuit",
+  "Sets": 3,
+  "Reps/Duration": "12 reps each",
+  "Calories Burned": 150
+},
+{
+  "_id": {
+    "$oid": "681976534d217ec192411ce7"
+  },
+  "Gender": "Male",
+  "User Goal": "Shape Body",
+  "Activity Level": "Intermediate",
+  "Day": "Friday",
+  "Exercise Name": "Core & Abs",
+  "Sets": 3,
+  "Reps/Duration": "15 reps each",
+  "Calories Burned": 120
+},
+{
+  "_id": {
+    "$oid": "681976534d217ec192411ce8"
+  },
+  "Gender": "Male",
+  "User Goal": "Shape Body",
+  "Activity Level": "Intermediate",
+  "Day": "Saturday",
+  "Exercise Name": "HIIT",
+  "Sets": 3,
+  "Reps/Duration": "12 reps each",
+  "Calories Burned": 180
+},
+{
+  "_id": {
+    "$oid": "681976534d217ec192411ce9"
+  },
+  "Gender": "Male",
+  "User Goal": "Shape Body",
+  "Activity Level": "Intermediate",
+  "Day": "Sunday",
+  "Notes": "Cheat Day"
+},
+{
+  "_id": {
+    "$oid": "681976534d217ec192411cea"
+  },
+  "Gender": "Male",
+  "User Goal": "Shape Body",
+  "Activity Level": "Advanced",
+  "Day": "Monday",
+  "Exercise Name": "CrossFit",
+  "Sets": 1,
+  "Reps/Duration": "40 min",
+  "Calories Burned": 350
+},
+{
+  "_id": {
+    "$oid": "681976534d217ec192411ceb"
+  },
+  "Gender": "Male",
+  "User Goal": "Shape Body",
+  "Activity Level": "Advanced",
+  "Day": "Tuesday",
+  "Exercise Name": "Strength Training",
+  "Sets": 4,
+  "Reps/Duration": "10 reps each",
+  "Calories Burned": 220
+},
+{
+  "_id": {
+    "$oid": "681976534d217ec192411cec"
+  },
+  "Gender": "Male",
+  "User Goal": "Shape Body",
+  "Activity Level": "Advanced",
+  "Day": "Wednesday",
+  "Exercise Name": "Running",
+  "Sets": 1,
+  "Reps/Duration": "40 min",
+  "Calories Burned": 350
+},
+{
+  "_id": {
+    "$oid": "681976534d217ec192411ced"
+  },
+  "Gender": "Male",
+  "User Goal": "Shape Body",
+  "Activity Level": "Advanced",
+  "Day": "Thursday",
+  "Exercise Name": "HIIT",
+  "Sets": 4,
+  "Reps/Duration": "15 reps each",
+  "Calories Burned": 250
+},
+{
+  "_id": {
+    "$oid": "681976534d217ec192411cee"
+  },
+  "Gender": "Male",
+  "User Goal": "Shape Body",
+  "Activity Level": "Advanced",
+  "Day": "Friday",
+  "Exercise Name": "Boxing",
+  "Sets": 1,
+  "Reps/Duration": "30 min",
+  "Calories Burned": 250
+},
+{
+  "_id": {
+    "$oid": "681976534d217ec192411cef"
+  },
+  "Gender": "Male",
+  "User Goal": "Shape Body",
+  "Activity Level": "Advanced",
+  "Day": "Saturday",
+  "Exercise Name": "Powerlifting",
+  "Sets": 4,
+  "Reps/Duration": "8 reps each",
+  "Calories Burned": 320
+},
+{
+  "_id": {
+    "$oid": "681976534d217ec192411cf0"
+  },
+  "Gender": "Male",
+  "User Goal": "Shape Body",
+  "Activity Level": "Advanced",
+  "Day": "Sunday",
+  "Notes": "Cheat Day"
+},
+{
+  "_id": {
+    "$oid": "681976534d217ec192411cf1"
+  },
+  "Gender": "Male",
+  "User Goal": "Maintain Health",
+  "Activity Level": "Beginner",
+  "Day": "Monday",
+  "Exercise Name": "Brisk Walking",
+  "Sets": 1,
+  "Reps/Duration": "30 min",
+  "Calories Burned": 120
+},
+{
+  "_id": {
+    "$oid": "681976534d217ec192411cf2"
+  },
+  "Gender": "Male",
+  "User Goal": "Maintain Health",
+  "Activity Level": "Beginner",
+  "Day": "Tuesday",
+  "Exercise Name": "Yoga",
+  "Sets": 1,
+  "Reps/Duration": "30 min",
+  "Calories Burned": 70
+},
+{
+  "_id": {
+    "$oid": "681976534d217ec192411cf3"
+  },
+  "Gender": "Male",
+  "User Goal": "Maintain Health",
+  "Activity Level": "Beginner",
+  "Day": "Wednesday",
+  "Exercise Name": "Cycling",
+  "Sets": 1,
+  "Reps/Duration": "20 min",
+  "Calories Burned": 100
+},
+{
+  "_id": {
+    "$oid": "681976534d217ec192411cf4"
+  },
+  "Gender": "Male",
+  "User Goal": "Maintain Health",
+  "Activity Level": "Beginner",
+  "Day": "Thursday",
+  "Exercise Name": "Stretching",
+  "Sets": 1,
+  "Reps/Duration": "20 min",
+  "Calories Burned": 50
+},
+{
+  "_id": {
+    "$oid": "681976534d217ec192411cf5"
+  },
+  "Gender": "Male",
+  "User Goal": "Maintain Health",
+  "Activity Level": "Beginner",
+  "Day": "Friday",
+  "Exercise Name": "Bodyweight Circuit",
+  "Sets": 2,
+  "Reps/Duration": "10 reps each",
+  "Calories Burned": 90
+},
+{
+  "_id": {
+    "$oid": "681976534d217ec192411cf6"
+  },
+  "Gender": "Male",
+  "User Goal": "Maintain Health",
+  "Activity Level": "Beginner",
+  "Day": "Saturday",
+  "Exercise Name": "Pilates",
+  "Sets": 1,
+  "Reps/Duration": "30 min",
+  "Calories Burned": 90
+},
+{
+  "_id": {
+    "$oid": "681976534d217ec192411cf7"
+  },
+  "Gender": "Male",
+  "User Goal": "Maintain Health",
+  "Activity Level": "Beginner",
+  "Day": "Sunday",
+  "Notes": "Cheat Day"
+},
+{
+  "_id": {
+    "$oid": "681976534d217ec192411cf8"
+  },
+  "Gender": "Male",
+  "User Goal": "Maintain Health",
+  "Activity Level": "Intermediate",
+  "Day": "Monday",
+  "Exercise Name": "Jogging",
+  "Sets": 1,
+  "Reps/Duration": "30 min",
+  "Calories Burned": 180
+},
+{
+  "_id": {
+    "$oid": "681976534d217ec192411cf9"
+  },
+  "Gender": "Male",
+  "User Goal": "Maintain Health",
+  "Activity Level": "Intermediate",
+  "Day": "Tuesday",
+  "Exercise Name": "Yoga",
+  "Sets": 1,
+  "Reps/Duration": "40 min",
+  "Calories Burned": 90
+},
+{
+  "_id": {
+    "$oid": "681976534d217ec192411cfa"
+  },
+  "Gender": "Male",
+  "User Goal": "Maintain Health",
+  "Activity Level": "Intermediate",
+  "Day": "Wednesday",
+  "Exercise Name": "Cycling",
+  "Sets": 1,
+  "Reps/Duration": "30 min",
+  "Calories Burned": 150
+},
+{
+  "_id": {
+    "$oid": "681976534d217ec192411cfb"
+  },
+  "Gender": "Male",
+  "User Goal": "Maintain Health",
+  "Activity Level": "Intermediate",
+  "Day": "Thursday",
+  "Exercise Name": "Strength Circuit",
+  "Sets": 3,
+  "Reps/Duration": "12 reps each",
+  "Calories Burned": 150
+},
+{
+  "_id": {
+    "$oid": "681976534d217ec192411cfc"
+  },
+  "Gender": "Male",
+  "User Goal": "Maintain Health",
+  "Activity Level": "Intermediate",
+  "Day": "Friday",
+  "Exercise Name": "Swimming",
+  "Sets": 1,
+  "Reps/Duration": "30 min",
+  "Calories Burned": 200
+},
+{
+  "_id": {
+    "$oid": "681976534d217ec192411cfd"
+  },
+  "Gender": "Male",
+  "User Goal": "Maintain Health",
+  "Activity Level": "Intermediate",
+  "Day": "Saturday",
+  "Exercise Name": "Pilates",
+  "Sets": 1,
+  "Reps/Duration": "40 min",
+  "Calories Burned": 120
+},
+{
+  "_id": {
+    "$oid": "681976534d217ec192411cfe"
+  },
+  "Gender": "Male",
+  "User Goal": "Maintain Health",
+  "Activity Level": "Intermediate",
+  "Day": "Sunday",
+  "Notes": "Cheat Day"
+},
+{
+  "_id": {
+    "$oid": "681976534d217ec192411cff"
+  },
+  "Gender": "Male",
+  "User Goal": "Maintain Health",
+  "Activity Level": "Advanced",
+  "Day": "Monday",
+  "Exercise Name": "Running",
+  "Sets": 1,
+  "Reps/Duration": "40 min",
+  "Calories Burned": 350
+},
+{
+  "_id": {
+    "$oid": "681976534d217ec192411d00"
+  },
+  "Gender": "Male",
+  "User Goal": "Maintain Health",
+  "Activity Level": "Advanced",
+  "Day": "Tuesday",
+  "Exercise Name": "CrossFit",
+  "Sets": 1,
+  "Reps/Duration": "40 min",
+  "Calories Burned": 350
+},
+{
+  "_id": {
+    "$oid": "681976534d217ec192411d01"
+  },
+  "Gender": "Male",
+  "User Goal": "Maintain Health",
+  "Activity Level": "Advanced",
+  "Day": "Wednesday",
+  "Exercise Name": "Strength Training",
+  "Sets": 4,
+  "Reps/Duration": "10 reps each",
+  "Calories Burned": 220
+},
+{
+  "_id": {
+    "$oid": "681976534d217ec192411d02"
+  },
+  "Gender": "Male",
+  "User Goal": "Maintain Health",
+  "Activity Level": "Advanced",
+  "Day": "Thursday",
+  "Exercise Name": "HIIT",
+  "Sets": 4,
+  "Reps/Duration": "15 reps each",
+  "Calories Burned": 250
+},
+{
+  "_id": {
+    "$oid": "681976534d217ec192411d03"
+  },
+  "Gender": "Male",
+  "User Goal": "Maintain Health",
+  "Activity Level": "Advanced",
+  "Day": "Friday",
+  "Exercise Name": "Boxing",
+  "Sets": 1,
+  "Reps/Duration": "30 min",
+  "Calories Burned": 250
+},
+{
+  "_id": {
+    "$oid": "681976534d217ec192411d04"
+  },
+  "Gender": "Male",
+  "User Goal": "Maintain Health",
+  "Activity Level": "Advanced",
+  "Day": "Saturday",
+  "Exercise Name": "Powerlifting",
+  "Sets": 4,
+  "Reps/Duration": "8 reps each",
+  "Calories Burned": 320
+},
+{
+  "_id": {
+    "$oid": "681976534d217ec192411d05"
+  },
+  "Gender": "Male",
+  "User Goal": "Maintain Health",
+  "Activity Level": "Advanced",
+  "Day": "Sunday",
+  "Notes": "Cheat Day"
+},
+{
+  "_id": {
+    "$oid": "681976534d217ec192411d06"
+  },
+  "Gender": "Male",
+  "User Goal": "Improve Endurance",
+  "Activity Level": "Beginner",
+  "Day": "Monday",
+  "Exercise Name": "Brisk Walking",
+  "Sets": 1,
+  "Reps/Duration": "40 min",
+  "Calories Burned": 150
+},
+{
+  "_id": {
+    "$oid": "681976534d217ec192411d07"
+  },
+  "Gender": "Male",
+  "User Goal": "Improve Endurance",
+  "Activity Level": "Beginner",
+  "Day": "Tuesday",
+  "Exercise Name": "Cycling",
+  "Sets": 1,
+  "Reps/Duration": "30 min",
+  "Calories Burned": 120
+},
+{
+  "_id": {
+    "$oid": "681976534d217ec192411d08"
+  },
+  "Gender": "Male",
+  "User Goal": "Improve Endurance",
+  "Activity Level": "Beginner",
+  "Day": "Wednesday",
+  "Exercise Name": "Jogging",
+  "Sets": 1,
+  "Reps/Duration": "20 min",
+  "Calories Burned": 120
+},
+{
+  "_id": {
+    "$oid": "681976534d217ec192411d09"
+  },
+  "Gender": "Male",
+  "User Goal": "Improve Endurance",
+  "Activity Level": "Beginner",
+  "Day": "Thursday",
+  "Exercise Name": "Bodyweight Circuit",
+  "Sets": 2,
+  "Reps/Duration": "10 reps each",
+  "Calories Burned": 110
+},
+{
+  "_id": {
+    "$oid": "681976534d217ec192411d0a"
+  },
+  "Gender": "Male",
+  "User Goal": "Improve Endurance",
+  "Activity Level": "Beginner",
+  "Day": "Friday",
+  "Exercise Name": "Yoga",
+  "Sets": 1,
+  "Reps/Duration": "30 min",
+  "Calories Burned": 70
+},
+{
+  "_id": {
+    "$oid": "681976534d217ec192411d0b"
+  },
+  "Gender": "Male",
+  "User Goal": "Improve Endurance",
+  "Activity Level": "Beginner",
+  "Day": "Saturday",
+  "Exercise Name": "Pilates",
+  "Sets": 1,
+  "Reps/Duration": "30 min",
+  "Calories Burned": 90
+},
+{
+  "_id": {
+    "$oid": "681976534d217ec192411d0c"
+  },
+  "Gender": "Male",
+  "User Goal": "Improve Endurance",
+  "Activity Level": "Beginner",
+  "Day": "Sunday",
+  "Notes": "Cheat Day"
+},
+{
+  "_id": {
+    "$oid": "681976534d217ec192411d0d"
+  },
+  "Gender": "Male",
+  "User Goal": "Improve Endurance",
+  "Activity Level": "Intermediate",
+  "Day": "Monday",
+  "Exercise Name": "Jogging",
+  "Sets": 1,
+  "Reps/Duration": "40 min",
+  "Calories Burned": 200
+},
+{
+  "_id": {
+    "$oid": "681976534d217ec192411d0e"
+  },
+  "Gender": "Male",
+  "User Goal": "Improve Endurance",
+  "Activity Level": "Intermediate",
+  "Day": "Tuesday",
+  "Exercise Name": "Cycling",
+  "Sets": 1,
+  "Reps/Duration": "40 min",
+  "Calories Burned": 180
+},
+{
+  "_id": {
+    "$oid": "681976534d217ec192411d0f"
+  },
+  "Gender": "Male",
+  "User Goal": "Improve Endurance",
+  "Activity Level": "Intermediate",
+  "Day": "Wednesday",
+  "Exercise Name": "HIIT",
+  "Sets": 3,
+  "Reps/Duration": "12 reps each",
+  "Calories Burned": 180
+},
+{
+  "_id": {
+    "$oid": "681976534d217ec192411d10"
+  },
+  "Gender": "Male",
+  "User Goal": "Improve Endurance",
+  "Activity Level": "Intermediate",
+  "Day": "Thursday",
+  "Exercise Name": "Strength Circuit",
+  "Sets": 3,
+  "Reps/Duration": "12 reps each",
+  "Calories Burned": 150
+},
+{
+  "_id": {
+    "$oid": "681976534d217ec192411d11"
+  },
+  "Gender": "Male",
+  "User Goal": "Improve Endurance",
+  "Activity Level": "Intermediate",
+  "Day": "Friday",
+  "Exercise Name": "Swimming",
+  "Sets": 1,
+  "Reps/Duration": "30 min",
+  "Calories Burned": 200
+},
+{
+  "_id": {
+    "$oid": "681976534d217ec192411d12"
+  },
+  "Gender": "Male",
+  "User Goal": "Improve Endurance",
+  "Activity Level": "Intermediate",
+  "Day": "Saturday",
+  "Exercise Name": "Pilates",
+  "Sets": 1,
+  "Reps/Duration": "40 min",
+  "Calories Burned": 120
+},
+{
+  "_id": {
+    "$oid": "681976534d217ec192411d13"
+  },
+  "Gender": "Male",
+  "User Goal": "Improve Endurance",
+  "Activity Level": "Intermediate",
+  "Day": "Sunday",
+  "Notes": "Cheat Day"
+},
+{
+  "_id": {
+    "$oid": "681976534d217ec192411d14"
+  },
+  "Gender": "Male",
+  "User Goal": "Improve Endurance",
+  "Activity Level": "Advanced",
+  "Day": "Monday",
+  "Exercise Name": "Running",
+  "Sets": 1,
+  "Reps/Duration": "60 min",
+  "Calories Burned": 500
+},
+{
+  "_id": {
+    "$oid": "681976534d217ec192411d15"
+  },
+  "Gender": "Male",
+  "User Goal": "Improve Endurance",
+  "Activity Level": "Advanced",
+  "Day": "Tuesday",
+  "Exercise Name": "CrossFit",
+  "Sets": 1,
+  "Reps/Duration": "45 min",
+  "Calories Burned": 400
+},
+{
+  "_id": {
+    "$oid": "681976534d217ec192411d16"
+  },
+  "Gender": "Male",
+  "User Goal": "Improve Endurance",
+  "Activity Level": "Advanced",
+  "Day": "Wednesday",
+  "Exercise Name": "HIIT",
+  "Sets": 4,
+  "Reps/Duration": "15 reps each",
+  "Calories Burned": 250
+},
+{
+  "_id": {
+    "$oid": "681976534d217ec192411d17"
+  },
+  "Gender": "Male",
+  "User Goal": "Improve Endurance",
+  "Activity Level": "Advanced",
+  "Day": "Thursday",
+  "Exercise Name": "Strength Training",
+  "Sets": 4,
+  "Reps/Duration": "10 reps each",
+  "Calories Burned": 220
+},
+{
+  "_id": {
+    "$oid": "681976534d217ec192411d18"
+  },
+  "Gender": "Male",
+  "User Goal": "Improve Endurance",
+  "Activity Level": "Advanced",
+  "Day": "Friday",
+  "Exercise Name": "Boxing",
+  "Sets": 1,
+  "Reps/Duration": "30 min",
+  "Calories Burned": 250
+},
+{
+  "_id": {
+    "$oid": "681976534d217ec192411d19"
+  },
+  "Gender": "Male",
+  "User Goal": "Improve Endurance",
+  "Activity Level": "Advanced",
+  "Day": "Saturday",
+  "Exercise Name": "Powerlifting",
+  "Sets": 4,
+  "Reps/Duration": "8 reps each",
+  "Calories Burned": 320
+},
+{
+  "_id": {
+    "$oid": "681976534d217ec192411d1a"
+  },
+  "Gender": "Male",
+  "User Goal": "Improve Endurance",
+  "Activity Level": "Advanced",
+  "Day": "Sunday",
+  "Notes": "Cheat Day"
+},
+{
+  "_id": {
+    "$oid": "681976534d217ec192411d1b"
+  },
+  "Gender": "Female",
+  "User Goal": "Lose Weight",
+  "Activity Level": "Beginner",
+  "Day": "Monday",
+  "Exercise Name": "Brisk Walking",
+  "Sets": 1,
+  "Reps/Duration": "30 min",
+  "Calories Burned": 150
+},
+{
+  "_id": {
+    "$oid": "681976534d217ec192411d1c"
+  },
+  "Gender": "Female",
+  "User Goal": "Lose Weight",
+  "Activity Level": "Beginner",
+  "Day": "Tuesday",
+  "Exercise Name": "Bodyweight Circuit (Squats, Pushups, Lunges)",
+  "Sets": 3,
+  "Reps/Duration": "12 reps each",
+  "Calories Burned": 180
+},
+{
+  "_id": {
+    "$oid": "681976534d217ec192411d1d"
+  },
+  "Gender": "Female",
+  "User Goal": "Lose Weight",
+  "Activity Level": "Beginner",
+  "Day": "Wednesday",
+  "Exercise Name": "Cycling",
+  "Sets": 1,
+  "Reps/Duration": "30 min",
+  "Calories Burned": 200
+},
+{
+  "_id": {
+    "$oid": "681976534d217ec192411d1e"
+  },
+  "Gender": "Female",
+  "User Goal": "Lose Weight",
+  "Activity Level": "Beginner",
+  "Day": "Thursday",
+  "Exercise Name": "Yoga/Stretching",
+  "Sets": 1,
+  "Reps/Duration": "40 min",
+  "Calories Burned": 100
+},
+{
+  "_id": {
+    "$oid": "681976534d217ec192411d1f"
+  },
+  "Gender": "Female",
+  "User Goal": "Lose Weight",
+  "Activity Level": "Beginner",
+  "Day": "Friday",
+  "Exercise Name": "Jogging",
+  "Sets": 1,
+  "Reps/Duration": "20 min",
+  "Calories Burned": 180
+},
+{
+  "_id": {
+    "$oid": "681976534d217ec192411d20"
+  },
+  "Gender": "Female",
+  "User Goal": "Lose Weight",
+  "Activity Level": "Beginner",
+  "Day": "Saturday",
+  "Exercise Name": "HIIT (Jumping Jacks, Mountain Climbers, Plank)",
+  "Sets": 3,
+  "Reps/Duration": "10 reps each",
+  "Calories Burned": 220
+},
+{
+  "_id": {
+    "$oid": "681976534d217ec192411d21"
+  },
+  "Gender": "Female",
+  "User Goal": "Lose Weight",
+  "Activity Level": "Beginner",
+  "Day": "Sunday",
+  "Notes": "Cheat Day"
+},
+{
+  "_id": {
+    "$oid": "681976534d217ec192411d22"
+  },
+  "Gender": "Female",
+  "User Goal": "Lose Weight",
+  "Activity Level": "Intermediate",
+  "Day": "Monday",
+  "Exercise Name": "Jogging",
+  "Sets": 1,
+  "Reps/Duration": "40 min",
+  "Calories Burned": 320
+},
+{
+  "_id": {
+    "$oid": "681976534d217ec192411d23"
+  },
+  "Gender": "Female",
+  "User Goal": "Lose Weight",
+  "Activity Level": "Intermediate",
+  "Day": "Tuesday",
+  "Exercise Name": "HIIT (Burpees, Squat Jumps, Plank)",
+  "Sets": 4,
+  "Reps/Duration": "15 reps each",
+  "Calories Burned": 300
+},
+{
+  "_id": {
+    "$oid": "681976534d217ec192411d24"
+  },
+  "Gender": "Female",
+  "User Goal": "Lose Weight",
+  "Activity Level": "Intermediate",
+  "Day": "Wednesday",
+  "Exercise Name": "Cycling",
+  "Sets": 1,
+  "Reps/Duration": "45 min",
+  "Calories Burned": 350
+},
+{
+  "_id": {
+    "$oid": "681976534d217ec192411d25"
+  },
+  "Gender": "Female",
+  "User Goal": "Lose Weight",
+  "Activity Level": "Intermediate",
+  "Day": "Thursday",
+  "Exercise Name": "Strength Circuit",
+  "Sets": 3,
+  "Reps/Duration": "15 reps each",
+  "Calories Burned": 250
+},
+{
+  "_id": {
+    "$oid": "681976534d217ec192411d26"
+  },
+  "Gender": "Female",
+  "User Goal": "Lose Weight",
+  "Activity Level": "Intermediate",
+  "Day": "Friday",
+  "Exercise Name": "Swimming",
+  "Sets": 1,
+  "Reps/Duration": "30 min",
+  "Calories Burned": 250
+},
+{
+  "_id": {
+    "$oid": "681976534d217ec192411d27"
+  },
+  "Gender": "Female",
+  "User Goal": "Lose Weight",
+  "Activity Level": "Intermediate",
+  "Day": "Saturday",
+  "Exercise Name": "Pilates",
+  "Sets": 1,
+  "Reps/Duration": "45 min",
+  "Calories Burned": 180
+},
+{
+  "_id": {
+    "$oid": "681976534d217ec192411d28"
+  },
+  "Gender": "Female",
+  "User Goal": "Lose Weight",
+  "Activity Level": "Intermediate",
+  "Day": "Sunday",
+  "Notes": "Cheat Day"
+},
+{
+  "_id": {
+    "$oid": "681976534d217ec192411d29"
+  },
+  "Gender": "Female",
+  "User Goal": "Lose Weight",
+  "Activity Level": "Advanced",
+  "Day": "Monday",
+  "Exercise Name": "Running",
+  "Sets": 1,
+  "Reps/Duration": "60 min",
+  "Calories Burned": 600
+},
+{
+  "_id": {
+    "$oid": "681976534d217ec192411d2a"
+  },
+  "Gender": "Female",
+  "User Goal": "Lose Weight",
+  "Activity Level": "Advanced",
+  "Day": "Tuesday",
+  "Exercise Name": "HIIT (Sprints, Burpees, Plank)",
+  "Sets": 5,
+  "Reps/Duration": "20 reps each",
+  "Calories Burned": 400
+},
+{
+  "_id": {
+    "$oid": "681976534d217ec192411d2b"
+  },
+  "Gender": "Female",
+  "User Goal": "Lose Weight",
+  "Activity Level": "Advanced",
+  "Day": "Wednesday",
+  "Exercise Name": "CrossFit",
+  "Sets": 1,
+  "Reps/Duration": "45 min",
+  "Calories Burned": 500
+},
+{
+  "_id": {
+    "$oid": "681976534d217ec192411d2c"
+  },
+  "Gender": "Female",
+  "User Goal": "Lose Weight",
+  "Activity Level": "Advanced",
+  "Day": "Thursday",
+  "Exercise Name": "Strength Training",
+  "Sets": 4,
+  "Reps/Duration": "20 reps each",
+  "Calories Burned": 350
+},
+{
+  "_id": {
+    "$oid": "681976534d217ec192411d2d"
+  },
+  "Gender": "Female",
+  "User Goal": "Lose Weight",
+  "Activity Level": "Advanced",
+  "Day": "Friday",
+  "Exercise Name": "Swimming",
+  "Sets": 1,
+  "Reps/Duration": "45 min",
+  "Calories Burned": 350
+},
+{
+  "_id": {
+    "$oid": "681976534d217ec192411d2e"
+  },
+  "Gender": "Female",
+  "User Goal": "Lose Weight",
+  "Activity Level": "Advanced",
+  "Day": "Saturday",
+  "Exercise Name": "Boxing",
+  "Sets": 1,
+  "Reps/Duration": "40 min",
+  "Calories Burned": 400
+},
+{
+  "_id": {
+    "$oid": "681976534d217ec192411d2f"
+  },
+  "Gender": "Female",
+  "User Goal": "Lose Weight",
+  "Activity Level": "Advanced",
+  "Day": "Sunday",
+  "Notes": "Cheat Day"
+},
+{
+  "_id": {
+    "$oid": "681976534d217ec192411d30"
+  },
+  "Gender": "Female",
+  "User Goal": "Gain Weight",
+  "Activity Level": "Beginner",
+  "Day": "Monday",
+  "Exercise Name": "Bodyweight Strength (Pushups, Squats, Lunges)",
+  "Sets": 3,
+  "Reps/Duration": "10 reps each",
+  "Calories Burned": 120
+},
+{
+  "_id": {
+    "$oid": "681976534d217ec192411d31"
+  },
+  "Gender": "Female",
+  "User Goal": "Gain Weight",
+  "Activity Level": "Beginner",
+  "Day": "Tuesday",
+  "Exercise Name": "Resistance Band Training",
+  "Sets": 3,
+  "Reps/Duration": "12 reps each",
+  "Calories Burned": 130
+},
+{
+  "_id": {
+    "$oid": "681976534d217ec192411d32"
+  },
+  "Gender": "Female",
+  "User Goal": "Gain Weight",
+  "Activity Level": "Beginner",
+  "Day": "Wednesday",
+  "Exercise Name": "Yoga/Stretching",
+  "Sets": 1,
+  "Reps/Duration": "30 min",
+  "Calories Burned": 80
+},
+{
+  "_id": {
+    "$oid": "681976534d217ec192411d33"
+  },
+  "Gender": "Female",
+  "User Goal": "Gain Weight",
+  "Activity Level": "Beginner",
+  "Day": "Thursday",
+  "Exercise Name": "Brisk Walking",
+  "Sets": 1,
+  "Reps/Duration": "20 min",
+  "Calories Burned": 100
+},
+{
+  "_id": {
+    "$oid": "681976534d217ec192411d34"
+  },
+  "Gender": "Female",
+  "User Goal": "Gain Weight",
+  "Activity Level": "Beginner",
+  "Day": "Friday",
+  "Exercise Name": "Core Training",
+  "Sets": 2,
+  "Reps/Duration": "10 reps each",
+  "Calories Burned": 90
+},
+{
+  "_id": {
+    "$oid": "681976534d217ec192411d35"
+  },
+  "Gender": "Female",
+  "User Goal": "Gain Weight",
+  "Activity Level": "Beginner",
+  "Day": "Saturday",
+  "Exercise Name": "Light Dumbbell Circuit",
+  "Sets": 2,
+  "Reps/Duration": "10 reps each",
+  "Calories Burned": 110
+},
+{
+  "_id": {
+    "$oid": "681976534d217ec192411d36"
+  },
+  "Gender": "Female",
+  "User Goal": "Gain Weight",
+  "Activity Level": "Beginner",
+  "Day": "Sunday",
+  "Notes": "Cheat Day"
+},
+{
+  "_id": {
+    "$oid": "681976534d217ec192411d37"
+  },
+  "Gender": "Female",
+  "User Goal": "Gain Weight",
+  "Activity Level": "Intermediate",
+  "Day": "Monday",
+  "Exercise Name": "Strength Training",
+  "Sets": 3,
+  "Reps/Duration": "12 reps each",
+  "Calories Burned": 200
+},
+{
+  "_id": {
+    "$oid": "681976534d217ec192411d38"
+  },
+  "Gender": "Female",
+  "User Goal": "Gain Weight",
+  "Activity Level": "Intermediate",
+  "Day": "Tuesday",
+  "Exercise Name": "Resistance Band Circuit",
+  "Sets": 3,
+  "Reps/Duration": "15 reps each",
+  "Calories Burned": 180
+},
+{
+  "_id": {
+    "$oid": "681976534d217ec192411d39"
+  },
+  "Gender": "Female",
+  "User Goal": "Gain Weight",
+  "Activity Level": "Intermediate",
+  "Day": "Wednesday",
+  "Exercise Name": "Jogging",
+  "Sets": 1,
+  "Reps/Duration": "30 min",
+  "Calories Burned": 180
+},
+{
+  "_id": {
+    "$oid": "681976534d217ec192411d3a"
+  },
+  "Gender": "Female",
+  "User Goal": "Gain Weight",
+  "Activity Level": "Intermediate",
+  "Day": "Thursday",
+  "Exercise Name": "Core & Abs",
+  "Sets": 3,
+  "Reps/Duration": "15 reps each",
+  "Calories Burned": 120
+},
+{
+  "_id": {
+    "$oid": "681976534d217ec192411d3b"
+  },
+  "Gender": "Female",
+  "User Goal": "Gain Weight",
+  "Activity Level": "Intermediate",
+  "Day": "Friday",
+  "Exercise Name": "Dumbbell Circuit",
+  "Sets": 3,
+  "Reps/Duration": "12 reps each",
+  "Calories Burned": 160
+},
+{
+  "_id": {
+    "$oid": "681976534d217ec192411d3c"
+  },
+  "Gender": "Female",
+  "User Goal": "Gain Weight",
+  "Activity Level": "Intermediate",
+  "Day": "Saturday",
+  "Exercise Name": "Yoga",
+  "Sets": 1,
+  "Reps/Duration": "40 min",
+  "Calories Burned": 90
+},
+{
+  "_id": {
+    "$oid": "681976534d217ec192411d3d"
+  },
+  "Gender": "Female",
+  "User Goal": "Gain Weight",
+  "Activity Level": "Intermediate",
+  "Day": "Sunday",
+  "Notes": "Cheat Day"
+},
+{
+  "_id": {
+    "$oid": "681976534d217ec192411d3e"
+  },
+  "Gender": "Female",
+  "User Goal": "Gain Weight",
+  "Activity Level": "Advanced",
+  "Day": "Monday",
+  "Exercise Name": "Heavy Strength Training",
+  "Sets": 4,
+  "Reps/Duration": "10 reps each",
+  "Calories Burned": 300
+},
+{
+  "_id": {
+    "$oid": "681976534d217ec192411d3f"
+  },
+  "Gender": "Female",
+  "User Goal": "Gain Weight",
+  "Activity Level": "Advanced",
+  "Day": "Tuesday",
+  "Exercise Name": "CrossFit",
+  "Sets": 1,
+  "Reps/Duration": "40 min",
+  "Calories Burned": 350
+},
+{
+  "_id": {
+    "$oid": "681976534d217ec192411d40"
+  },
+  "Gender": "Female",
+  "User Goal": "Gain Weight",
+  "Activity Level": "Advanced",
+  "Day": "Wednesday",
+  "Exercise Name": "HIIT",
+  "Sets": 4,
+  "Reps/Duration": "15 reps each",
+  "Calories Burned": 250
+},
+{
+  "_id": {
+    "$oid": "681976534d217ec192411d41"
+  },
+  "Gender": "Female",
+  "User Goal": "Gain Weight",
+  "Activity Level": "Advanced",
+  "Day": "Thursday",
+  "Exercise Name": "Running",
+  "Sets": 1,
+  "Reps/Duration": "30 min",
+  "Calories Burned": 300
+},
+{
+  "_id": {
+    "$oid": "681976534d217ec192411d42"
+  },
+  "Gender": "Female",
+  "User Goal": "Gain Weight",
+  "Activity Level": "Advanced",
+  "Day": "Friday",
+  "Exercise Name": "Powerlifting",
+  "Sets": 4,
+  "Reps/Duration": "8 reps each",
+  "Calories Burned": 320
+},
+{
+  "_id": {
+    "$oid": "681976534d217ec192411d43"
+  },
+  "Gender": "Female",
+  "User Goal": "Gain Weight",
+  "Activity Level": "Advanced",
+  "Day": "Saturday",
+  "Exercise Name": "Boxing",
+  "Sets": 1,
+  "Reps/Duration": "30 min",
+  "Calories Burned": 250
+},
+{
+  "_id": {
+    "$oid": "681976534d217ec192411d44"
+  },
+  "Gender": "Female",
+  "User Goal": "Gain Weight",
+  "Activity Level": "Advanced",
+  "Day": "Sunday",
+  "Notes": "Cheat Day"
+},
+{
+  "_id": {
+    "$oid": "681976534d217ec192411d45"
+  },
+  "Gender": "Female",
+  "User Goal": "Muscle Mass Gain",
+  "Activity Level": "Beginner",
+  "Day": "Monday",
+  "Exercise Name": "Full Body Strength",
+  "Sets": 3,
+  "Reps/Duration": "10 reps each",
+  "Calories Burned": 150
+},
+{
+  "_id": {
+    "$oid": "681976534d217ec192411d46"
+  },
+  "Gender": "Female",
+  "User Goal": "Muscle Mass Gain",
+  "Activity Level": "Beginner",
+  "Day": "Tuesday",
+  "Exercise Name": "Push/Pull/Legs Split",
+  "Sets": 3,
+  "Reps/Duration": "10 reps each",
+  "Calories Burned": 160
+},
+{
+  "_id": {
+    "$oid": "681976534d217ec192411d47"
+  },
+  "Gender": "Female",
+  "User Goal": "Muscle Mass Gain",
+  "Activity Level": "Beginner",
+  "Day": "Wednesday",
+  "Exercise Name": "Resistance Band Training",
+  "Sets": 3,
+  "Reps/Duration": "12 reps each",
+  "Calories Burned": 130
+},
+{
+  "_id": {
+    "$oid": "681976534d217ec192411d48"
+  },
+  "Gender": "Female",
+  "User Goal": "Muscle Mass Gain",
+  "Activity Level": "Beginner",
+  "Day": "Thursday",
+  "Exercise Name": "Core Training",
+  "Sets": 2,
+  "Reps/Duration": "10 reps each",
+  "Calories Burned": 90
+},
+{
+  "_id": {
+    "$oid": "681976534d217ec192411d49"
+  },
+  "Gender": "Female",
+  "User Goal": "Muscle Mass Gain",
+  "Activity Level": "Beginner",
+  "Day": "Friday",
+  "Exercise Name": "Yoga/Stretching",
+  "Sets": 1,
+  "Reps/Duration": "30 min",
+  "Calories Burned": 80
+},
+{
+  "_id": {
+    "$oid": "681976534d217ec192411d4a"
+  },
+  "Gender": "Female",
+  "User Goal": "Muscle Mass Gain",
+  "Activity Level": "Beginner",
+  "Day": "Saturday",
+  "Exercise Name": "Light Dumbbell Circuit",
+  "Sets": 2,
+  "Reps/Duration": "10 reps each",
+  "Calories Burned": 110
+},
+{
+  "_id": {
+    "$oid": "681976534d217ec192411d4b"
+  },
+  "Gender": "Female",
+  "User Goal": "Muscle Mass Gain",
+  "Activity Level": "Beginner",
+  "Day": "Sunday",
+  "Notes": "Cheat Day"
+},
+{
+  "_id": {
+    "$oid": "681976534d217ec192411d4c"
+  },
+  "Gender": "Female",
+  "User Goal": "Muscle Mass Gain",
+  "Activity Level": "Intermediate",
+  "Day": "Monday",
+  "Exercise Name": "Upper/Lower Split",
+  "Sets": 4,
+  "Reps/Duration": "12 reps each",
+  "Calories Burned": 200
+},
+{
+  "_id": {
+    "$oid": "681976534d217ec192411d4d"
+  },
+  "Gender": "Female",
+  "User Goal": "Muscle Mass Gain",
+  "Activity Level": "Intermediate",
+  "Day": "Tuesday",
+  "Exercise Name": "Strength Training",
+  "Sets": 4,
+  "Reps/Duration": "10 reps each",
+  "Calories Burned": 220
+},
+{
+  "_id": {
+    "$oid": "681976534d217ec192411d4e"
+  },
+  "Gender": "Female",
+  "User Goal": "Muscle Mass Gain",
+  "Activity Level": "Intermediate",
+  "Day": "Wednesday",
+  "Exercise Name": "Dumbbell Circuit",
+  "Sets": 3,
+  "Reps/Duration": "12 reps each",
+  "Calories Burned": 160
+},
+{
+  "_id": {
+    "$oid": "681976534d217ec192411d4f"
+  },
+  "Gender": "Female",
+  "User Goal": "Muscle Mass Gain",
+  "Activity Level": "Intermediate",
+  "Day": "Thursday",
+  "Exercise Name": "Core & Abs",
+  "Sets": 3,
+  "Reps/Duration": "15 reps each",
+  "Calories Burned": 120
+},
+{
+  "_id": {
+    "$oid": "681976534d217ec192411d50"
+  },
+  "Gender": "Female",
+  "User Goal": "Muscle Mass Gain",
+  "Activity Level": "Intermediate",
+  "Day": "Friday",
+  "Exercise Name": "Yoga",
+  "Sets": 1,
+  "Reps/Duration": "40 min",
+  "Calories Burned": 90
+},
+{
+  "_id": {
+    "$oid": "681976534d217ec192411d51"
+  },
+  "Gender": "Female",
+  "User Goal": "Muscle Mass Gain",
+  "Activity Level": "Intermediate",
+  "Day": "Saturday",
+  "Exercise Name": "HIIT",
+  "Sets": 3,
+  "Reps/Duration": "12 reps each",
+  "Calories Burned": 180
+},
+{
+  "_id": {
+    "$oid": "681976534d217ec192411d52"
+  },
+  "Gender": "Female",
+  "User Goal": "Muscle Mass Gain",
+  "Activity Level": "Intermediate",
+  "Day": "Sunday",
+  "Notes": "Cheat Day"
+},
+{
+  "_id": {
+    "$oid": "681976534d217ec192411d53"
+  },
+  "Gender": "Female",
+  "User Goal": "Muscle Mass Gain",
+  "Activity Level": "Advanced",
+  "Day": "Monday",
+  "Exercise Name": "Heavy Strength Training",
+  "Sets": 5,
+  "Reps/Duration": "8 reps each",
+  "Calories Burned": 300
+},
+{
+  "_id": {
+    "$oid": "681976534d217ec192411d54"
+  },
+  "Gender": "Female",
+  "User Goal": "Muscle Mass Gain",
+  "Activity Level": "Advanced",
+  "Day": "Tuesday",
+  "Exercise Name": "Powerlifting",
+  "Sets": 4,
+  "Reps/Duration": "8 reps each",
+  "Calories Burned": 320
+},
+{
+  "_id": {
+    "$oid": "681976534d217ec192411d55"
+  },
+  "Gender": "Female",
+  "User Goal": "Muscle Mass Gain",
+  "Activity Level": "Advanced",
+  "Day": "Wednesday",
+  "Exercise Name": "CrossFit",
+  "Sets": 1,
+  "Reps/Duration": "40 min",
+  "Calories Burned": 350
+},
+{
+  "_id": {
+    "$oid": "681976534d217ec192411d56"
+  },
+  "Gender": "Female",
+  "User Goal": "Muscle Mass Gain",
+  "Activity Level": "Advanced",
+  "Day": "Thursday",
+  "Exercise Name": "HIIT",
+  "Sets": 4,
+  "Reps/Duration": "15 reps each",
+  "Calories Burned": 250
+},
+{
+  "_id": {
+    "$oid": "681976534d217ec192411d57"
+  },
+  "Gender": "Female",
+  "User Goal": "Muscle Mass Gain",
+  "Activity Level": "Advanced",
+  "Day": "Friday",
+  "Exercise Name": "Running",
+  "Sets": 1,
+  "Reps/Duration": "30 min",
+  "Calories Burned": 300
+},
+{
+  "_id": {
+    "$oid": "681976534d217ec192411d58"
+  },
+  "Gender": "Female",
+  "User Goal": "Muscle Mass Gain",
+  "Activity Level": "Advanced",
+  "Day": "Saturday",
+  "Exercise Name": "Boxing",
+  "Sets": 1,
+  "Reps/Duration": "30 min",
+  "Calories Burned": 250
+},
+{
+  "_id": {
+    "$oid": "681976534d217ec192411d59"
+  },
+  "Gender": "Female",
+  "User Goal": "Muscle Mass Gain",
+  "Activity Level": "Advanced",
+  "Day": "Sunday",
+  "Notes": "Cheat Day"
+},
+{
+  "_id": {
+    "$oid": "681976534d217ec192411d5a"
+  },
+  "Gender": "Female",
+  "User Goal": "Shape Body",
+  "Activity Level": "Beginner",
+  "Day": "Monday",
+  "Exercise Name": "Pilates",
+  "Sets": 1,
+  "Reps/Duration": "30 min",
+  "Calories Burned": 90
+},
+{
+  "_id": {
+    "$oid": "681976534d217ec192411d5b"
+  },
+  "Gender": "Female",
+  "User Goal": "Shape Body",
+  "Activity Level": "Beginner",
+  "Day": "Tuesday",
+  "Exercise Name": "Yoga",
+  "Sets": 1,
+  "Reps/Duration": "40 min",
+  "Calories Burned": 80
+},
+{
+  "_id": {
+    "$oid": "681976534d217ec192411d5c"
+  },
+  "Gender": "Female",
+  "User Goal": "Shape Body",
+  "Activity Level": "Beginner",
+  "Day": "Wednesday",
+  "Exercise Name": "Brisk Walking",
+  "Sets": 1,
+  "Reps/Duration": "30 min",
+  "Calories Burned": 120
+},
+{
+  "_id": {
+    "$oid": "681976534d217ec192411d5d"
+  },
+  "Gender": "Female",
+  "User Goal": "Shape Body",
+  "Activity Level": "Beginner",
+  "Day": "Thursday",
+  "Exercise Name": "Bodyweight Circuit",
+  "Sets": 2,
+  "Reps/Duration": "10 reps each",
+  "Calories Burned": 110
+},
+{
+  "_id": {
+    "$oid": "681976534d217ec192411d5e"
+  },
+  "Gender": "Female",
+  "User Goal": "Shape Body",
+  "Activity Level": "Beginner",
+  "Day": "Friday",
+  "Exercise Name": "Core Training",
+  "Sets": 2,
+  "Reps/Duration": "10 reps each",
+  "Calories Burned": 90
+},
+{
+  "_id": {
+    "$oid": "681976534d217ec192411d5f"
+  },
+  "Gender": "Female",
+  "User Goal": "Shape Body",
+  "Activity Level": "Beginner",
+  "Day": "Saturday",
+  "Exercise Name": "Light Dumbbell Circuit",
+  "Sets": 2,
+  "Reps/Duration": "10 reps each",
+  "Calories Burned": 110
+},
+{
+  "_id": {
+    "$oid": "681976534d217ec192411d60"
+  },
+  "Gender": "Female",
+  "User Goal": "Shape Body",
+  "Activity Level": "Beginner",
+  "Day": "Sunday",
+  "Notes": "Cheat Day"
+},
+{
+  "_id": {
+    "$oid": "681976534d217ec192411d61"
+  },
+  "Gender": "Female",
+  "User Goal": "Shape Body",
+  "Activity Level": "Intermediate",
+  "Day": "Monday",
+  "Exercise Name": "Pilates",
+  "Sets": 1,
+  "Reps/Duration": "45 min",
+  "Calories Burned": 120
+},
+{
+  "_id": {
+    "$oid": "681976534d217ec192411d62"
+  },
+  "Gender": "Female",
+  "User Goal": "Shape Body",
+  "Activity Level": "Intermediate",
+  "Day": "Tuesday",
+  "Exercise Name": "Yoga",
+  "Sets": 1,
+  "Reps/Duration": "50 min",
+  "Calories Burned": 100
+},
+{
+  "_id": {
+    "$oid": "681976534d217ec192411d63"
+  },
+  "Gender": "Female",
+  "User Goal": "Shape Body",
+  "Activity Level": "Intermediate",
+  "Day": "Wednesday",
+  "Exercise Name": "Jogging",
+  "Sets": 1,
+  "Reps/Duration": "30 min",
+  "Calories Burned": 180
+},
+{
+  "_id": {
+    "$oid": "681976534d217ec192411d64"
+  },
+  "Gender": "Female",
+  "User Goal": "Shape Body",
+  "Activity Level": "Intermediate",
+  "Day": "Thursday",
+  "Exercise Name": "Strength Circuit",
+  "Sets": 3,
+  "Reps/Duration": "12 reps each",
+  "Calories Burned": 150
+},
+{
+  "_id": {
+    "$oid": "681976534d217ec192411d65"
+  },
+  "Gender": "Female",
+  "User Goal": "Shape Body",
+  "Activity Level": "Intermediate",
+  "Day": "Friday",
+  "Exercise Name": "Core & Abs",
+  "Sets": 3,
+  "Reps/Duration": "15 reps each",
+  "Calories Burned": 120
+},
+{
+  "_id": {
+    "$oid": "681976534d217ec192411d66"
+  },
+  "Gender": "Female",
+  "User Goal": "Shape Body",
+  "Activity Level": "Intermediate",
+  "Day": "Saturday",
+  "Exercise Name": "HIIT",
+  "Sets": 3,
+  "Reps/Duration": "12 reps each",
+  "Calories Burned": 180
+},
+{
+  "_id": {
+    "$oid": "681976534d217ec192411d67"
+  },
+  "Gender": "Female",
+  "User Goal": "Shape Body",
+  "Activity Level": "Intermediate",
+  "Day": "Sunday",
+  "Notes": "Cheat Day"
+},
+{
+  "_id": {
+    "$oid": "681976534d217ec192411d68"
+  },
+  "Gender": "Female",
+  "User Goal": "Shape Body",
+  "Activity Level": "Advanced",
+  "Day": "Monday",
+  "Exercise Name": "CrossFit",
+  "Sets": 1,
+  "Reps/Duration": "40 min",
+  "Calories Burned": 350
+},
+{
+  "_id": {
+    "$oid": "681976534d217ec192411d69"
+  },
+  "Gender": "Female",
+  "User Goal": "Shape Body",
+  "Activity Level": "Advanced",
+  "Day": "Tuesday",
+  "Exercise Name": "Strength Training",
+  "Sets": 4,
+  "Reps/Duration": "10 reps each",
+  "Calories Burned": 220
+},
+{
+  "_id": {
+    "$oid": "681976534d217ec192411d6a"
+  },
+  "Gender": "Female",
+  "User Goal": "Shape Body",
+  "Activity Level": "Advanced",
+  "Day": "Wednesday",
+  "Exercise Name": "Running",
+  "Sets": 1,
+  "Reps/Duration": "40 min",
+  "Calories Burned": 350
+},
+{
+  "_id": {
+    "$oid": "681976534d217ec192411d6b"
+  },
+  "Gender": "Female",
+  "User Goal": "Shape Body",
+  "Activity Level": "Advanced",
+  "Day": "Thursday",
+  "Exercise Name": "HIIT",
+  "Sets": 4,
+  "Reps/Duration": "15 reps each",
+  "Calories Burned": 250
+},
+{
+  "_id": {
+    "$oid": "681976534d217ec192411d6c"
+  },
+  "Gender": "Female",
+  "User Goal": "Shape Body",
+  "Activity Level": "Advanced",
+  "Day": "Friday",
+  "Exercise Name": "Boxing",
+  "Sets": 1,
+  "Reps/Duration": "30 min",
+  "Calories Burned": 250
+},
+{
+  "_id": {
+    "$oid": "681976534d217ec192411d6d"
+  },
+  "Gender": "Female",
+  "User Goal": "Shape Body",
+  "Activity Level": "Advanced",
+  "Day": "Saturday",
+  "Exercise Name": "Powerlifting",
+  "Sets": 4,
+  "Reps/Duration": "8 reps each",
+  "Calories Burned": 320
+},
+{
+  "_id": {
+    "$oid": "681976534d217ec192411d6e"
+  },
+  "Gender": "Female",
+  "User Goal": "Shape Body",
+  "Activity Level": "Advanced",
+  "Day": "Sunday",
+  "Notes": "Cheat Day"
+},
+{
+  "_id": {
+    "$oid": "681976534d217ec192411d6f"
+  },
+  "Gender": "Female",
+  "User Goal": "Maintain Health",
+  "Activity Level": "Beginner",
+  "Day": "Monday",
+  "Exercise Name": "Brisk Walking",
+  "Sets": 1,
+  "Reps/Duration": "30 min",
+  "Calories Burned": 120
+},
+{
+  "_id": {
+    "$oid": "681976534d217ec192411d70"
+  },
+  "Gender": "Female",
+  "User Goal": "Maintain Health",
+  "Activity Level": "Beginner",
+  "Day": "Tuesday",
+  "Exercise Name": "Yoga",
+  "Sets": 1,
+  "Reps/Duration": "30 min",
+  "Calories Burned": 70
+},
+{
+  "_id": {
+    "$oid": "681976534d217ec192411d71"
+  },
+  "Gender": "Female",
+  "User Goal": "Maintain Health",
+  "Activity Level": "Beginner",
+  "Day": "Wednesday",
+  "Exercise Name": "Cycling",
+  "Sets": 1,
+  "Reps/Duration": "20 min",
+  "Calories Burned": 100
+},
+{
+  "_id": {
+    "$oid": "681976534d217ec192411d72"
+  },
+  "Gender": "Female",
+  "User Goal": "Maintain Health",
+  "Activity Level": "Beginner",
+  "Day": "Thursday",
+  "Exercise Name": "Stretching",
+  "Sets": 1,
+  "Reps/Duration": "20 min",
+  "Calories Burned": 50
+},
+{
+  "_id": {
+    "$oid": "681976534d217ec192411d73"
+  },
+  "Gender": "Female",
+  "User Goal": "Maintain Health",
+  "Activity Level": "Beginner",
+  "Day": "Friday",
+  "Exercise Name": "Bodyweight Circuit",
+  "Sets": 2,
+  "Reps/Duration": "10 reps each",
+  "Calories Burned": 90
+},
+{
+  "_id": {
+    "$oid": "681976534d217ec192411d74"
+  },
+  "Gender": "Female",
+  "User Goal": "Maintain Health",
+  "Activity Level": "Beginner",
+  "Day": "Saturday",
+  "Exercise Name": "Pilates",
+  "Sets": 1,
+  "Reps/Duration": "30 min",
+  "Calories Burned": 90
+},
+{
+  "_id": {
+    "$oid": "681976534d217ec192411d75"
+  },
+  "Gender": "Female",
+  "User Goal": "Maintain Health",
+  "Activity Level": "Beginner",
+  "Day": "Sunday",
+  "Notes": "Cheat Day"
+},
+{
+  "_id": {
+    "$oid": "681976534d217ec192411d76"
+  },
+  "Gender": "Female",
+  "User Goal": "Maintain Health",
+  "Activity Level": "Intermediate",
+  "Day": "Monday",
+  "Exercise Name": "Jogging",
+  "Sets": 1,
+  "Reps/Duration": "30 min",
+  "Calories Burned": 180
+},
+{
+  "_id": {
+    "$oid": "681976534d217ec192411d77"
+  },
+  "Gender": "Female",
+  "User Goal": "Maintain Health",
+  "Activity Level": "Intermediate",
+  "Day": "Tuesday",
+  "Exercise Name": "Yoga",
+  "Sets": 1,
+  "Reps/Duration": "40 min",
+  "Calories Burned": 90
+},
+{
+  "_id": {
+    "$oid": "681976534d217ec192411d78"
+  },
+  "Gender": "Female",
+  "User Goal": "Maintain Health",
+  "Activity Level": "Intermediate",
+  "Day": "Wednesday",
+  "Exercise Name": "Cycling",
+  "Sets": 1,
+  "Reps/Duration": "30 min",
+  "Calories Burned": 150
+},
+{
+  "_id": {
+    "$oid": "681976534d217ec192411d79"
+  },
+  "Gender": "Female",
+  "User Goal": "Maintain Health",
+  "Activity Level": "Intermediate",
+  "Day": "Thursday",
+  "Exercise Name": "Strength Circuit",
+  "Sets": 3,
+  "Reps/Duration": "12 reps each",
+  "Calories Burned": 150
+},
+{
+  "_id": {
+    "$oid": "681976534d217ec192411d7a"
+  },
+  "Gender": "Female",
+  "User Goal": "Maintain Health",
+  "Activity Level": "Intermediate",
+  "Day": "Friday",
+  "Exercise Name": "Swimming",
+  "Sets": 1,
+  "Reps/Duration": "30 min",
+  "Calories Burned": 200
+},
+{
+  "_id": {
+    "$oid": "681976534d217ec192411d7b"
+  },
+  "Gender": "Female",
+  "User Goal": "Maintain Health",
+  "Activity Level": "Intermediate",
+  "Day": "Saturday",
+  "Exercise Name": "Pilates",
+  "Sets": 1,
+  "Reps/Duration": "40 min",
+  "Calories Burned": 120
+},
+{
+  "_id": {
+    "$oid": "681976534d217ec192411d7c"
+  },
+  "Gender": "Female",
+  "User Goal": "Maintain Health",
+  "Activity Level": "Intermediate",
+  "Day": "Sunday",
+  "Notes": "Cheat Day"
+},
+{
+  "_id": {
+    "$oid": "681976534d217ec192411d7d"
+  },
+  "Gender": "Female",
+  "User Goal": "Maintain Health",
+  "Activity Level": "Advanced",
+  "Day": "Monday",
+  "Exercise Name": "Running",
+  "Sets": 1,
+  "Reps/Duration": "40 min",
+  "Calories Burned": 350
+},
+{
+  "_id": {
+    "$oid": "681976534d217ec192411d7e"
+  },
+  "Gender": "Female",
+  "User Goal": "Maintain Health",
+  "Activity Level": "Advanced",
+  "Day": "Tuesday",
+  "Exercise Name": "CrossFit",
+  "Sets": 1,
+  "Reps/Duration": "40 min",
+  "Calories Burned": 350
+},
+{
+  "_id": {
+    "$oid": "681976534d217ec192411d7f"
+  },
+  "Gender": "Female",
+  "User Goal": "Maintain Health",
+  "Activity Level": "Advanced",
+  "Day": "Wednesday",
+  "Exercise Name": "Strength Training",
+  "Sets": 4,
+  "Reps/Duration": "10 reps each",
+  "Calories Burned": 220
+},
+{
+  "_id": {
+    "$oid": "681976534d217ec192411d80"
+  },
+  "Gender": "Female",
+  "User Goal": "Maintain Health",
+  "Activity Level": "Advanced",
+  "Day": "Thursday",
+  "Exercise Name": "HIIT",
+  "Sets": 4,
+  "Reps/Duration": "15 reps each",
+  "Calories Burned": 250
+},
+{
+  "_id": {
+    "$oid": "681976534d217ec192411d81"
+  },
+  "Gender": "Female",
+  "User Goal": "Maintain Health",
+  "Activity Level": "Advanced",
+  "Day": "Friday",
+  "Exercise Name": "Boxing",
+  "Sets": 1,
+  "Reps/Duration": "30 min",
+  "Calories Burned": 250
+},
+{
+  "_id": {
+    "$oid": "681976534d217ec192411d82"
+  },
+  "Gender": "Female",
+  "User Goal": "Maintain Health",
+  "Activity Level": "Advanced",
+  "Day": "Saturday",
+  "Exercise Name": "Powerlifting",
+  "Sets": 4,
+  "Reps/Duration": "8 reps each",
+  "Calories Burned": 320
+},
+{
+  "_id": {
+    "$oid": "681976534d217ec192411d83"
+  },
+  "Gender": "Female",
+  "User Goal": "Maintain Health",
+  "Activity Level": "Advanced",
+  "Day": "Sunday",
+  "Notes": "Cheat Day"
+},
+{
+  "_id": {
+    "$oid": "681976534d217ec192411d84"
+  },
+  "Gender": "Female",
+  "User Goal": "Improve Endurance",
+  "Activity Level": "Beginner",
+  "Day": "Monday",
+  "Exercise Name": "Brisk Walking",
+  "Sets": 1,
+  "Reps/Duration": "40 min",
+  "Calories Burned": 150
+},
+{
+  "_id": {
+    "$oid": "681976534d217ec192411d85"
+  },
+  "Gender": "Female",
+  "User Goal": "Improve Endurance",
+  "Activity Level": "Beginner",
+  "Day": "Tuesday",
+  "Exercise Name": "Cycling",
+  "Sets": 1,
+  "Reps/Duration": "30 min",
+  "Calories Burned": 120
+},
+{
+  "_id": {
+    "$oid": "681976534d217ec192411d86"
+  },
+  "Gender": "Female",
+  "User Goal": "Improve Endurance",
+  "Activity Level": "Beginner",
+  "Day": "Wednesday",
+  "Exercise Name": "Jogging",
+  "Sets": 1,
+  "Reps/Duration": "20 min",
+  "Calories Burned": 120
+},
+{
+  "_id": {
+    "$oid": "681976534d217ec192411d87"
+  },
+  "Gender": "Female",
+  "User Goal": "Improve Endurance",
+  "Activity Level": "Beginner",
+  "Day": "Thursday",
+  "Exercise Name": "Bodyweight Circuit",
+  "Sets": 2,
+  "Reps/Duration": "10 reps each",
+  "Calories Burned": 110
+},
+{
+  "_id": {
+    "$oid": "681976534d217ec192411d88"
+  },
+  "Gender": "Female",
+  "User Goal": "Improve Endurance",
+  "Activity Level": "Beginner",
+  "Day": "Friday",
+  "Exercise Name": "Yoga",
+  "Sets": 1,
+  "Reps/Duration": "30 min",
+  "Calories Burned": 70
+},
+{
+  "_id": {
+    "$oid": "681976534d217ec192411d89"
+  },
+  "Gender": "Female",
+  "User Goal": "Improve Endurance",
+  "Activity Level": "Beginner",
+  "Day": "Saturday",
+  "Exercise Name": "Pilates",
+  "Sets": 1,
+  "Reps/Duration": "30 min",
+  "Calories Burned": 90
+},
+{
+  "_id": {
+    "$oid": "681976534d217ec192411d8a"
+  },
+  "Gender": "Female",
+  "User Goal": "Improve Endurance",
+  "Activity Level": "Beginner",
+  "Day": "Sunday",
+  "Notes": "Cheat Day"
+},
+{
+  "_id": {
+    "$oid": "681976534d217ec192411d8b"
+  },
+  "Gender": "Female",
+  "User Goal": "Improve Endurance",
+  "Activity Level": "Intermediate",
+  "Day": "Monday",
+  "Exercise Name": "Jogging",
+  "Sets": 1,
+  "Reps/Duration": "40 min",
+  "Calories Burned": 200
+},
+{
+  "_id": {
+    "$oid": "681976534d217ec192411d8c"
+  },
+  "Gender": "Female",
+  "User Goal": "Improve Endurance",
+  "Activity Level": "Intermediate",
+  "Day": "Tuesday",
+  "Exercise Name": "Cycling",
+  "Sets": 1,
+  "Reps/Duration": "40 min",
+  "Calories Burned": 180
+},
+{
+  "_id": {
+    "$oid": "681976534d217ec192411d8d"
+  },
+  "Gender": "Female",
+  "User Goal": "Improve Endurance",
+  "Activity Level": "Intermediate",
+  "Day": "Wednesday",
+  "Exercise Name": "HIIT",
+  "Sets": 3,
+  "Reps/Duration": "12 reps each",
+  "Calories Burned": 180
+},
+{
+  "_id": {
+    "$oid": "681976534d217ec192411d8e"
+  },
+  "Gender": "Female",
+  "User Goal": "Improve Endurance",
+  "Activity Level": "Intermediate",
+  "Day": "Thursday",
+  "Exercise Name": "Strength Circuit",
+  "Sets": 3,
+  "Reps/Duration": "12 reps each",
+  "Calories Burned": 150
+},
+{
+  "_id": {
+    "$oid": "681976534d217ec192411d8f"
+  },
+  "Gender": "Female",
+  "User Goal": "Improve Endurance",
+  "Activity Level": "Intermediate",
+  "Day": "Friday",
+  "Exercise Name": "Swimming",
+  "Sets": 1,
+  "Reps/Duration": "30 min",
+  "Calories Burned": 200
+},
+{
+  "_id": {
+    "$oid": "681976534d217ec192411d90"
+  },
+  "Gender": "Female",
+  "User Goal": "Improve Endurance",
+  "Activity Level": "Intermediate",
+  "Day": "Saturday",
+  "Exercise Name": "Pilates",
+  "Sets": 1,
+  "Reps/Duration": "40 min",
+  "Calories Burned": 120
+},
+{
+  "_id": {
+    "$oid": "681976534d217ec192411d91"
+  },
+  "Gender": "Female",
+  "User Goal": "Improve Endurance",
+  "Activity Level": "Intermediate",
+  "Day": "Sunday",
+  "Notes": "Cheat Day"
+},
+{
+  "_id": {
+    "$oid": "681976534d217ec192411d92"
+  },
+  "Gender": "Female",
+  "User Goal": "Improve Endurance",
+  "Activity Level": "Advanced",
+  "Day": "Monday",
+  "Exercise Name": "Running",
+  "Sets": 1,
+  "Reps/Duration": "60 min",
+  "Calories Burned": 500
+},
+{
+  "_id": {
+    "$oid": "681976534d217ec192411d93"
+  },
+  "Gender": "Female",
+  "User Goal": "Improve Endurance",
+  "Activity Level": "Advanced",
+  "Day": "Tuesday",
+  "Exercise Name": "CrossFit",
+  "Sets": 1,
+  "Reps/Duration": "45 min",
+  "Calories Burned": 400
+},
+{
+  "_id": {
+    "$oid": "681976534d217ec192411d94"
+  },
+  "Gender": "Female",
+  "User Goal": "Improve Endurance",
+  "Activity Level": "Advanced",
+  "Day": "Wednesday",
+  "Exercise Name": "HIIT",
+  "Sets": 4,
+  "Reps/Duration": "15 reps each",
+  "Calories Burned": 250
+},
+{
+  "_id": {
+    "$oid": "681976534d217ec192411d95"
+  },
+  "Gender": "Female",
+  "User Goal": "Improve Endurance",
+  "Activity Level": "Advanced",
+  "Day": "Thursday",
+  "Exercise Name": "Strength Training",
+  "Sets": 4,
+  "Reps/Duration": "10 reps each",
+  "Calories Burned": 220
+},
+{
+  "_id": {
+    "$oid": "681976534d217ec192411d96"
+  },
+  "Gender": "Female",
+  "User Goal": "Improve Endurance",
+  "Activity Level": "Advanced",
+  "Day": "Friday",
+  "Exercise Name": "Boxing",
+  "Sets": 1,
+  "Reps/Duration": "30 min",
+  "Calories Burned": 250
+},
+{
+  "_id": {
+    "$oid": "681976534d217ec192411d97"
+  },
+  "Gender": "Female",
+  "User Goal": "Improve Endurance",
+  "Activity Level": "Advanced",
+  "Day": "Saturday",
+  "Exercise Name": "Powerlifting",
+  "Sets": 4,
+  "Reps/Duration": "8 reps each",
+  "Calories Burned": 320
+},
+{
+  "_id": {
+    "$oid": "681976534d217ec192411d98"
+  },
+  "Gender": "Female",
+  "User Goal": "Improve Endurance",
+  "Activity Level": "Advanced",
+  "Day": "Sunday",
+  "Notes": "Cheat Day"
+}]

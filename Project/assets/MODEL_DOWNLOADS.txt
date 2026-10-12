@@ -1,0 +1,11 @@
+Model files
+
+Download model from Google Drive and place it in this assets folder.
+
+1. https://drive.google.com/file/d/1FO9tnCRn6KIlC_RlsDfeKimdP7Az5kfr/view?usp=sharing
+
+2. https://drive.google.com/file/d/1YjtMQVUVffAH1inyQ4pKBvjUfbqRrXjd/view?usp=drive_link
+
+3. https://drive.google.com/file/d/1rPQ7zcPF4MrrarIbDcSYqTCQNqlS_Joi/view?usp=drive_link
+
+Note: Check the model filenames and the paths expected by the app. Rename and place each downloaded file accordingly.

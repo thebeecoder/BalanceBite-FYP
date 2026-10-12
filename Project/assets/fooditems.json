@@ -1,0 +1,3085 @@
+[{
+  "_id": {
+    "$oid": "67a92f1439bc623085bf2759"
+  },
+  "Food Name": "Chana_Puri",
+  "Calories": 379.4,
+  "Proteins": 11.56,
+  "Fats": 12.34,
+  "Carbs": 57.36
+},
+{
+  "_id": {
+    "$oid": "67a92f1439bc623085bf275c"
+  },
+  "Food Name": "Siri Paye",
+  "Calories": 488.3,
+  "Proteins": 26,
+  "Fats": 33.78,
+  "Carbs": 17.6
+},
+{
+  "_id": {
+    "$oid": "67a92f1439bc623085bf2760"
+  },
+  "Food Name": "French toast",
+  "Calories": 272,
+  "Proteins": 10.4,
+  "Fats": 11.2,
+  "Carbs": 31
+},
+{
+  "_id": {
+    "$oid": "67a92f1439bc623085bf2763"
+  },
+  "Food Name": "Sheermal",
+  "Calories": 529.42,
+  "Proteins": 14.8,
+  "Fats": 13.645,
+  "Carbs": 89.76
+},
+{
+  "_id": {
+    "$oid": "67a92f1439bc623085bf2764"
+  },
+  "Food Name": "Gur Walay Parathay",
+  "Calories": 384.1,
+  "Proteins": 8.2,
+  "Fats": 11.3,
+  "Carbs": 65.2
+},
+{
+  "_id": {
+    "$oid": "67a92f1439bc623085bf276d"
+  },
+  "Food Name": "Idli",
+  "Calories": 100,
+  "Proteins": 9.76,
+  "Fats": 2.6,
+  "Carbs": 46.18
+},
+{
+  "_id": {
+    "$oid": "67a92f1439bc623085bf276f"
+  },
+  "Food Name": "Tandoori Roti",
+  "Calories": 276,
+  "Proteins": 9,
+  "Fats": 3,
+  "Carbs": 50
+},
+{
+  "_id": {
+    "$oid": "67a92f1439bc623085bf2772"
+  },
+  "Food Name": "Bhakri",
+  "Calories": 500,
+  "Proteins": 7,
+  "Fats": 25,
+  "Carbs": 57
+},
+{
+  "_id": {
+    "$oid": "67a92f1439bc623085bf2775"
+  },
+  "Food Name": "Chapati",
+  "Calories": 259,
+  "Proteins": 8.8,
+  "Fats": 1.2,
+  "Carbs": 57
+},
+{
+  "_id": {
+    "$oid": "67a92f1439bc623085bf2778"
+  },
+  "Food Name": "Boiled Egg",
+  "Calories": 163,
+  "Proteins": 12.8,
+  "Fats": 11.7,
+  "Carbs": 0.8
+},
+{
+  "_id": {
+    "$oid": "67a92f1439bc623085bf277b"
+  },
+  "Food Name": "Akhrot",
+  "Calories": 654,
+  "Proteins": 17.5,
+  "Fats": 63.4,
+  "Carbs": 13.2
+},
+{
+  "_id": {
+    "$oid": "67a92f1439bc623085bf277c"
+  },
+  "Food Name": "Supari",
+  "Calories": 390,
+  "Proteins": 4.8,
+  "Fats": 10.4,
+  "Carbs": 65.9
+},
+{
+  "_id": {
+    "$oid": "67a92f1439bc623085bf278c"
+  },
+  "Food Name": "Aloo gobhi ",
+  "Calories": 193,
+  "Proteins": 4,
+  "Fats": 14.8,
+  "Carbs": 14
+},
+{
+  "_id": {
+    "$oid": "67a92f1439bc623085bf2790"
+  },
+  "Food Name": "Daal gosht",
+  "Calories": 190,
+  "Proteins": 12,
+  "Fats": 10,
+  "Carbs": 12
+},
+{
+  "_id": {
+    "$oid": "67a92f1439bc623085bf2795"
+  },
+  "Food Name": "Haleem",
+  "Calories": 590,
+  "Proteins": 37.3,
+  "Fats": 26.75,
+  "Carbs": 349.8
+},
+{
+  "_id": {
+    "$oid": "67a92f1439bc623085bf2799"
+  },
+  "Food Name": "Maki Sushi",
+  "Calories": 140,
+  "Proteins": 6,
+  "Fats": 2,
+  "Carbs": 28
+},
+{
+  "_id": {
+    "$oid": "67a92f1439bc623085bf27a3"
+  },
+  "Food Name": "Chana Daal with Ghee Tarka",
+  "Calories": 254,
+  "Proteins": 9,
+  "Fats": 11,
+  "Carbs": 27
+},
+{
+  "_id": {
+    "$oid": "67a92f1439bc623085bf27a7"
+  },
+  "Food Name": "Karela gosht",
+  "Calories": 334,
+  "Proteins": 21.8,
+  "Fats": 27.8,
+  "Carbs": 8.8
+},
+{
+  "_id": {
+    "$oid": "67a92f1439bc623085bf27a8"
+  },
+  "Food Name": "Sindhi Biryani\n",
+  "Calories": 260,
+  "Proteins": 8,
+  "Fats": 14,
+  "Carbs": 27
+},
+{
+  "_id": {
+    "$oid": "67a92f1439bc623085bf27ac"
+  },
+  "Food Name": "Kichri",
+  "Calories": 300,
+  "Proteins": 11.4,
+  "Fats": 5.2
+},
+{
+  "_id": {
+    "$oid": "67a92f1439bc623085bf27b1"
+  },
+  "Food Name": "Chicken Cheese Omelette",
+  "Calories": 381.35,
+  "Proteins": 36.045,
+  "Fats": 25.25,
+  "Carbs": 1.495
+},
+{
+  "_id": {
+    "$oid": "67a92f1439bc623085bf27b7"
+  },
+  "Food Name": "Curry Pakora",
+  "Calories": 120,
+  "Proteins": 4,
+  "Fats": 6,
+  "Carbs": 12
+},
+{
+  "_id": {
+    "$oid": "67a92f1439bc623085bf27b9"
+  },
+  "Food Name": "Paratha Rolls ",
+  "Calories": 342.7,
+  "Proteins": 18.55,
+  "Fats": 20.99,
+  "Carbs": 23.41
+},
+{
+  "_id": {
+    "$oid": "67a92f1439bc623085bf27bb"
+  },
+  "Food Name": "Fried Fish ",
+  "Calories": 259,
+  "Proteins": 20.8,
+  "Fats": 14.8,
+  "Carbs": 9.8
+},
+{
+  "_id": {
+    "$oid": "67a92f1439bc623085bf27bd"
+  },
+  "Food Name": "Fish (Promfret)",
+  "Calories": 87,
+  "Proteins": 18.9,
+  "Fats": 1.4,
+  "Carbs": 1.8
+},
+{
+  "_id": {
+    "$oid": "67a92f1439bc623085bf27c2"
+  },
+  "Food Name": "Fish Tikka",
+  "Calories": 197,
+  "Proteins": 22.75,
+  "Fats": 7.44,
+  "Carbs": 11.32
+},
+{
+  "_id": {
+    "$oid": "67a92f1439bc623085bf27c7"
+  },
+  "Food Name": "Sweet and Sour Chicken",
+  "Calories": 200,
+  "Proteins": 10,
+  "Fats": 9,
+  "Carbs": 18
+},
+{
+  "_id": {
+    "$oid": "67a92f1439bc623085bf27c8"
+  },
+  "Food Name": "Crab",
+  "Calories": 88,
+  "Proteins": 16.7,
+  "Fats": 1.7,
+  "Carbs": 1.4
+},
+{
+  "_id": {
+    "$oid": "67a92f1439bc623085bf27ca"
+  },
+  "Food Name": "Soup",
+  "Calories": 36,
+  "Proteins": 2.5,
+  "Fats": 1.2,
+  "Carbs": 3.5
+},
+{
+  "_id": {
+    "$oid": "67a92f1439bc623085bf27cb"
+  },
+  "Food Name": "Icecream",
+  "Calories": 148,
+  "Proteins": 3.9,
+  "Fats": 4.5,
+  "Carbs": 22
+},
+{
+  "_id": {
+    "$oid": "67a92f1439bc623085bf27cc"
+  },
+  "Food Name": "Chicken Yakhni Soup",
+  "Calories": 60,
+  "Proteins": 6,
+  "Fats": 3,
+  "Carbs": 1
+},
+{
+  "_id": {
+    "$oid": "67a92f1439bc623085bf27ce"
+  },
+  "Food Name": "Lemon Chicken",
+  "Calories": 190,
+  "Proteins": 13,
+  "Fats": 9,
+  "Carbs": 13
+},
+{
+  "_id": {
+    "$oid": "67a92f1439bc623085bf27d2"
+  },
+  "Food Name": "Kung pao Beef",
+  "Calories": 220,
+  "Proteins": 16,
+  "Fats": 14,
+  "Carbs": 7
+},
+{
+  "_id": {
+    "$oid": "67a92f1439bc623085bf27d7"
+  },
+  "Food Name": "Aloo Mungray ",
+  "Calories": 98,
+  "Proteins": 2,
+  "Fats": 6,
+  "Carbs": 10
+},
+{
+  "_id": {
+    "$oid": "67a92f1439bc623085bf27d9"
+  },
+  "Food Name": "Chicken Chungay",
+  "Calories": 145,
+  "Proteins": 12,
+  "Fats": 8,
+  "Carbs": 6
+},
+{
+  "_id": {
+    "$oid": "67a92f1439bc623085bf27da"
+  },
+  "Food Name": "Seekh Kabab",
+  "Calories": 361.5,
+  "Proteins": 26.6,
+  "Fats": 27.4,
+  "Carbs": 4.2
+},
+{
+  "_id": {
+    "$oid": "67a92f1439bc623085bf27e2"
+  },
+  "Food Name": "Chicken ginger Curry",
+  "Calories": 389.5,
+  "Proteins": 42.89,
+  "Fats": 21.84,
+  "Carbs": 5.68
+},
+{
+  "_id": {
+    "$oid": "67a92f1439bc623085bf27e4"
+  },
+  "Food Name": "Lahori Chargha",
+  "Calories": 399,
+  "Proteins": 43.2,
+  "Fats": 22.2,
+  "Carbs": 7.2
+},
+{
+  "_id": {
+    "$oid": "67a92f1439bc623085bf27e8"
+  },
+  "Food Name": "Dum Pukht",
+  "Calories": 468,
+  "Proteins": 38.3,
+  "Fats": 33.8,
+  "Carbs": 4.8
+},
+{
+  "_id": {
+    "$oid": "67a92f1439bc623085bf27ea"
+  },
+  "Food Name": "Sindhi Kadhi",
+  "Calories": 200,
+  "Proteins": 1.8,
+  "Fats": 15.8,
+  "Carbs": 14
+},
+{
+  "_id": {
+    "$oid": "67a92f1439bc623085bf27ed"
+  },
+  "Food Name": "Chicken Sajji with Rice",
+  "Calories": 513.5,
+  "Proteins": 44,
+  "Fats": 22,
+  "Carbs": 32
+},
+{
+  "_id": {
+    "$oid": "67a92f1439bc623085bf27ee"
+  },
+  "Food Name": "Lukhnowi Korma",
+  "Calories": 219.5,
+  "Proteins": 33.5,
+  "Fats": 5.95,
+  "Carbs": 6.4
+},
+{
+  "_id": {
+    "$oid": "67a92f1439bc623085bf27f9"
+  },
+  "Food Name": "Fish Karahi",
+  "Calories": 300,
+  "Proteins": 35.3,
+  "Fats": 14.3,
+  "Carbs": 4.8
+},
+{
+  "_id": {
+    "$oid": "67a92f1439bc623085bf27fa"
+  },
+  "Food Name": "Tandoori Chicken",
+  "Calories": 385.5,
+  "Proteins": 42.8,
+  "Fats": 21.8,
+  "Carbs": 4.8
+},
+{
+  "_id": {
+    "$oid": "67a92f1439bc623085bf2801"
+  },
+  "Food Name": "Tinda Sabzi",
+  "Calories": 85,
+  "Proteins": 1.78,
+  "Fats": 3.26,
+  "Carbs": 15.35
+},
+{
+  "_id": {
+    "$oid": "67a92f1439bc623085bf2807"
+  },
+  "Food Name": "Vegetable Pakora",
+  "Calories": 200,
+  "Proteins": 5,
+  "Fats": 12,
+  "Carbs": 20
+},
+{
+  "_id": {
+    "$oid": "67a92f1439bc623085bf280a"
+  },
+  "Food Name": "Dhokla",
+  "Calories": 360,
+  "Proteins": 12,
+  "Fats": 2,
+  "Carbs": 68
+},
+{
+  "_id": {
+    "$oid": "67a92f1439bc623085bf280c"
+  },
+  "Food Name": "Dahi Bhalla",
+  "Calories": 210.3,
+  "Proteins": 5.4,
+  "Fats": 3.75,
+  "Carbs": 36.9
+},
+{
+  "_id": {
+    "$oid": "67a92f1439bc623085bf2811"
+  },
+  "Food Name": "Fafda",
+  "Calories": 318,
+  "Proteins": 14.79,
+  "Fats": 10.99,
+  "Carbs": 39.97
+},
+{
+  "_id": {
+    "$oid": "67a92f1439bc623085bf2814"
+  },
+  "Food Name": "Namak Paray",
+  "Calories": 362,
+  "Proteins": 6.5,
+  "Fats": 20.95,
+  "Carbs": 38
+},
+{
+  "_id": {
+    "$oid": "67a92f1439bc623085bf2815"
+  },
+  "Food Name": "Dahi Papri Chaat",
+  "Calories": 193.3,
+  "Proteins": 3.55,
+  "Fats": 5.05,
+  "Carbs": 20.7
+},
+{
+  "_id": {
+    "$oid": "67a92f1439bc623085bf2819"
+  },
+  "Food Name": "Chicken Sandwiches",
+  "Calories": 351,
+  "Proteins": 20.2,
+  "Fats": 18.3,
+  "Carbs": 25.5
+},
+{
+  "_id": {
+    "$oid": "67a92f1439bc623085bf281e"
+  },
+  "Food Name": "Barfi",
+  "Calories": 384,
+  "Proteins": 1.5,
+  "Fats": 0.8,
+  "Carbs": 92.2
+},
+{
+  "_id": {
+    "$oid": "67a92f1439bc623085bf2820"
+  },
+  "Food Name": "Khoya",
+  "Calories": 401,
+  "Proteins": 14.6,
+  "Fats": 31.2,
+  "Carbs": 15.5
+},
+{
+  "_id": {
+    "$oid": "67a92f1439bc623085bf2828"
+  },
+  "Food Name": "Wheat Dalia",
+  "Calories": 400,
+  "Proteins": 8.4,
+  "Fats": 6,
+  "Carbs": 0
+},
+{
+  "_id": {
+    "$oid": "67a92f1439bc623085bf282a"
+  },
+  "Food Name": "Besan Ka Halwa",
+  "Calories": 483.3,
+  "Proteins": 11,
+  "Fats": 18.5,
+  "Carbs": 69
+},
+{
+  "_id": {
+    "$oid": "67a92f1439bc623085bf2832"
+  },
+  "Food Name": "Sohan Halwa",
+  "Calories": 952.6,
+  "Proteins": 4.2,
+  "Fats": 60,
+  "Carbs": 105.6
+},
+{
+  "_id": {
+    "$oid": "67a92f1439bc623085bf283a"
+  },
+  "Food Name": "Coconut Ladoo",
+  "Calories": 220,
+  "Proteins": 4,
+  "Fats": 14,
+  "Carbs": 25
+},
+{
+  "_id": {
+    "$oid": "67a92f1439bc623085bf283c"
+  },
+  "Food Name": "Rusmalai",
+  "Calories": 220,
+  "Proteins": 6,
+  "Fats": 7.7,
+  "Carbs": 33
+},
+{
+  "_id": {
+    "$oid": "67a92f1439bc623085bf2842"
+  },
+  "Food Name": "Chocolate Custard ",
+  "Calories": 150,
+  "Proteins": 3.5,
+  "Fats": 5.5,
+  "Carbs": 21
+},
+{
+  "_id": {
+    "$oid": "67a92f1439bc623085bf2843"
+  },
+  "Food Name": "Milk Cake",
+  "Calories": 326,
+  "Proteins": 6.6,
+  "Fats": 15,
+  "Carbs": 41
+},
+{
+  "_id": {
+    "$oid": "67a92f1439bc623085bf2844"
+  },
+  "Food Name": "Doodh Jalebi ",
+  "Calories": 510,
+  "Proteins": 9.2,
+  "Fats": 23.25,
+  "Carbs": 69.8
+},
+{
+  "_id": {
+    "$oid": "67a92f1439bc623085bf284b"
+  },
+  "Food Name": "Chicken Shawarma ",
+  "Calories": 457.5,
+  "Proteins": 24.7,
+  "Fats": 23.4,
+  "Carbs": 37
+},
+{
+  "_id": {
+    "$oid": "67a92f1439bc623085bf284e"
+  },
+  "Food Name": "Chicken Burger",
+  "Calories": 106,
+  "Proteins": 18.5,
+  "Fats": 3,
+  "Carbs": 0.7
+},
+{
+  "_id": {
+    "$oid": "67a92f1439bc623085bf2757"
+  },
+  "Food Name": "Lachha Paratha",
+  "Calories": 290.4,
+  "Proteins": 7.8,
+  "Fats": 9.14,
+  "Carbs": 45.6
+},
+{
+  "_id": {
+    "$oid": "67a92f1439bc623085bf2758"
+  },
+  "Food Name": "Keema Paratha",
+  "Calories": 410.8,
+  "Proteins": 20.96,
+  "Fats": 18.3,
+  "Carbs": 46.56
+},
+{
+  "_id": {
+    "$oid": "67a92f1439bc623085bf275b"
+  },
+  "Food Name": "Nihari",
+  "Calories": 408.3,
+  "Proteins": 29,
+  "Fats": 26.78,
+  "Carbs": 17.6
+},
+{
+  "_id": {
+    "$oid": "67a92f1439bc623085bf275d"
+  },
+  "Food Name": "Chana Masala \n\n",
+  "Calories": 150,
+  "Proteins": 7,
+  "Fats": 5,
+  "Carbs": 24
+},
+{
+  "_id": {
+    "$oid": "67a92f1439bc623085bf275e"
+  },
+  "Food Name": "Anda Bhurji",
+  "Calories": 95,
+  "Proteins": 7.2,
+  "Fats": 5.42,
+  "Carbs": 5.15
+},
+{
+  "_id": {
+    "$oid": "67a92f1439bc623085bf2761"
+  },
+  "Food Name": "Anda Chana ",
+  "Calories": 212,
+  "Proteins": 11.4,
+  "Fats": 11.7,
+  "Carbs": 16.4
+},
+{
+  "_id": {
+    "$oid": "67a92f1439bc623085bf2762"
+  },
+  "Food Name": "Desi Murgh ",
+  "Calories": 284.1,
+  "Proteins": 31.9,
+  "Fats": 14,
+  "Carbs": 5.9
+},
+{
+  "_id": {
+    "$oid": "67a92f1439bc623085bf2767"
+  },
+  "Food Name": "Gobi Paratha ",
+  "Calories": 438,
+  "Proteins": 14.35,
+  "Fats": 10.04,
+  "Carbs": 76.885
+},
+{
+  "_id": {
+    "$oid": "67a92f1439bc623085bf2771"
+  },
+  "Food Name": "Missi Roti",
+  "Calories": 300,
+  "Proteins": 7,
+  "Fats": 8,
+  "Carbs": 48
+},
+{
+  "_id": {
+    "$oid": "67a92f1439bc623085bf2774"
+  },
+  "Food Name": "Paratha",
+  "Calories": 364,
+  "Proteins": 8.6,
+  "Fats": 21.4,
+  "Carbs": 39.8
+},
+{
+  "_id": {
+    "$oid": "67a92f1439bc623085bf2776"
+  },
+  "Food Name": "Biscuit",
+  "Calories": 440,
+  "Proteins": 9.1,
+  "Fats": 7.2,
+  "Carbs": 73.7
+},
+{
+  "_id": {
+    "$oid": "67a92f1439bc623085bf2779"
+  },
+  "Food Name": "Donuts",
+  "Calories": 431,
+  "Proteins": 3.9,
+  "Fats": 27.4,
+  "Carbs": 41.1
+},
+{
+  "_id": {
+    "$oid": "67a92f1439bc623085bf2784"
+  },
+  "Food Name": "Tihari",
+  "Calories": 140,
+  "Proteins": 3,
+  "Fats": 3.5,
+  "Carbs": 25
+},
+{
+  "_id": {
+    "$oid": "67a92f1439bc623085bf278d"
+  },
+  "Food Name": "Aloo Palak",
+  "Calories": 90,
+  "Proteins": 2.5,
+  "Fats": 5,
+  "Carbs": 12
+},
+{
+  "_id": {
+    "$oid": "67a92f1439bc623085bf2793"
+  },
+  "Food Name": "Pulao ",
+  "Calories": 338.5,
+  "Proteins": 6.45,
+  "Fats": 10.85,
+  "Carbs": 54.4
+},
+{
+  "_id": {
+    "$oid": "67a92f1439bc623085bf2797"
+  },
+  "Food Name": "Shami Kabab ",
+  "Calories": 435.5,
+  "Proteins": 30.9,
+  "Fats": 26.7,
+  "Carbs": 15.9
+},
+{
+  "_id": {
+    "$oid": "67a92f1439bc623085bf279a"
+  },
+  "Food Name": "Dum Arbi",
+  "Calories": 104,
+  "Proteins": 1.3,
+  "Fats": 3.9,
+  "Carbs": 17
+},
+{
+  "_id": {
+    "$oid": "67a92f1439bc623085bf279e"
+  },
+  "Food Name": "Methi Chicken",
+  "Calories": 322,
+  "Proteins": 34.55,
+  "Fats": 14.5,
+  "Carbs": 13.95
+},
+{
+  "_id": {
+    "$oid": "67a92f1439bc623085bf27a2"
+  },
+  "Food Name": "Achari Chicken",
+  "Calories": 414.4,
+  "Proteins": 32.1,
+  "Fats": 24.45,
+  "Carbs": 12.3
+},
+{
+  "_id": {
+    "$oid": "67a92f1439bc623085bf27a5"
+  },
+  "Food Name": "Fish Biryani",
+  "Calories": 296,
+  "Proteins": 19.13,
+  "Fats": 10.3,
+  "Carbs": 31.21
+},
+{
+  "_id": {
+    "$oid": "67a92f1439bc623085bf27a9"
+  },
+  "Food Name": "Dahi Baingan ",
+  "Calories": 158,
+  "Proteins": 3.15,
+  "Fats": 12.1,
+  "Carbs": 10.75
+},
+{
+  "_id": {
+    "$oid": "67a92f1439bc623085bf27ad"
+  },
+  "Food Name": "Rajma Chawal",
+  "Calories": 316,
+  "Proteins": 10.53,
+  "Fats": 7.93,
+  "Carbs": 50.91
+},
+{
+  "_id": {
+    "$oid": "67a92f1439bc623085bf27af"
+  },
+  "Food Name": "Aloo Ki Bhujia",
+  "Calories": 524,
+  "Proteins": 10.17,
+  "Fats": 22.46,
+  "Carbs": 75.1
+},
+{
+  "_id": {
+    "$oid": "67a92f1439bc623085bf27b0"
+  },
+  "Food Name": "Aloo Qeema ",
+  "Calories": 197.8,
+  "Proteins": 14.1,
+  "Fats": 14.35,
+  "Carbs": 8.5
+},
+{
+  "_id": {
+    "$oid": "67a92f1439bc623085bf27b2"
+  },
+  "Food Name": "Keema",
+  "Calories": 24,
+  "Proteins": 16,
+  "Fats": 18,
+  "Carbs": 3
+},
+{
+  "_id": {
+    "$oid": "67a92f1439bc623085bf27b8"
+  },
+  "Food Name": "Tandoori Chicken Wraps",
+  "Calories": 315.3,
+  "Proteins": 36.1,
+  "Fats": 8.16,
+  "Carbs": 23.84
+},
+{
+  "_id": {
+    "$oid": "67a92f1439bc623085bf27ba"
+  },
+  "Food Name": "Mint Raita",
+  "Calories": 78,
+  "Proteins": 4.4,
+  "Fats": 3.5,
+  "Carbs": 8.3
+},
+{
+  "_id": {
+    "$oid": "67a92f1439bc623085bf27c0"
+  },
+  "Food Name": "Fish (Soal)",
+  "Calories": 117,
+  "Proteins": 20.1,
+  "Fats": 2.9,
+  "Carbs": 2.2
+},
+{
+  "_id": {
+    "$oid": "67a92f1439bc623085bf27c1"
+  },
+  "Food Name": "Fish (Surmai)",
+  "Calories": 103,
+  "Proteins": 21,
+  "Fats": 2.2,
+  "Carbs": 1.8
+},
+{
+  "_id": {
+    "$oid": "67a92f1439bc623085bf27c4"
+  },
+  "Food Name": "Chow Mein ",
+  "Calories": 190,
+  "Proteins": 6,
+  "Fats": 8,
+  "Carbs": 22
+},
+{
+  "_id": {
+    "$oid": "67a92f1439bc623085bf27c6"
+  },
+  "Food Name": "Dumplings ",
+  "Calories": 120,
+  "Proteins": 7,
+  "Fats": 4,
+  "Carbs": 13
+},
+{
+  "_id": {
+    "$oid": "67a92f1439bc623085bf27d4"
+  },
+  "Food Name": "Tikka Boti ",
+  "Calories": 170,
+  "Proteins": 16,
+  "Fats": 10,
+  "Carbs": 2
+},
+{
+  "_id": {
+    "$oid": "67a92f1439bc623085bf27d5"
+  },
+  "Food Name": "White Karahi ",
+  "Calories": 500.7,
+  "Proteins": 28.69,
+  "Fats": 41.02,
+  "Carbs": 4.55
+},
+{
+  "_id": {
+    "$oid": "67a92f1439bc623085bf27dc"
+  },
+  "Food Name": "Raita ",
+  "Calories": 90,
+  "Proteins": 1.85,
+  "Fats": 7.05,
+  "Carbs": 5.61
+},
+{
+  "_id": {
+    "$oid": "67a92f1439bc623085bf27de"
+  },
+  "Food Name": "Sonf",
+  "Calories": 345,
+  "Proteins": 17.4,
+  "Fats": 3.5,
+  "Carbs": 59.6
+},
+{
+  "_id": {
+    "$oid": "67a92f1439bc623085bf27e3"
+  },
+  "Food Name": "Tandoori Fish",
+  "Calories": 300,
+  "Proteins": 35.3,
+  "Fats": 14.3,
+  "Carbs": 4.8
+},
+{
+  "_id": {
+    "$oid": "67a92f1439bc623085bf27e9"
+  },
+  "Food Name": "Sajji ",
+  "Calories": 157,
+  "Proteins": 17.2,
+  "Fats": 6.6,
+  "Carbs": 1.5
+},
+{
+  "_id": {
+    "$oid": "67a92f1439bc623085bf27f1"
+  },
+  "Food Name": "Rosh (Balochi Mutton Stew)",
+  "Calories": 400,
+  "Proteins": 38.3,
+  "Fats": 30.7,
+  "Carbs": 4
+},
+{
+  "_id": {
+    "$oid": "67a92f1439bc623085bf27f5"
+  },
+  "Food Name": "Mutton Pulao",
+  "Calories": 578,
+  "Proteins": 34.85,
+  "Fats": 22.93,
+  "Carbs": 58.51
+},
+{
+  "_id": {
+    "$oid": "67a92f1439bc623085bf27f7"
+  },
+  "Food Name": "Shikarpuri Achar ",
+  "Calories": 232.6,
+  "Proteins": 1.62,
+  "Fats": 17.38,
+  "Carbs": 22
+},
+{
+  "_id": {
+    "$oid": "67a92f1439bc623085bf27fb"
+  },
+  "Food Name": "Arbi Sabzi",
+  "Calories": 110,
+  "Proteins": 2.13,
+  "Fats": 2.94,
+  "Carbs": 21.13
+},
+{
+  "_id": {
+    "$oid": "67a92f1439bc623085bf27fc"
+  },
+  "Food Name": "Bihari Kebab",
+  "Calories": 476.51,
+  "Proteins": 47.42,
+  "Fats": 24.79,
+  "Carbs": 6
+},
+{
+  "_id": {
+    "$oid": "67a92f1439bc623085bf2800"
+  },
+  "Food Name": "Saag Paneera",
+  "Calories": 366,
+  "Proteins": 15,
+  "Fats": 30,
+  "Carbs": 10
+},
+{
+  "_id": {
+    "$oid": "67a92f1439bc623085bf2802"
+  },
+  "Food Name": "Samosa",
+  "Calories": 305.6,
+  "Proteins": 7.3,
+  "Fats": 10.95,
+  "Carbs": 46.4
+},
+{
+  "_id": {
+    "$oid": "67a92f1439bc623085bf2803"
+  },
+  "Food Name": "Samosa Chaat",
+  "Calories": 253,
+  "Proteins": 7.76,
+  "Fats": 13.02,
+  "Carbs": 27.78
+},
+{
+  "_id": {
+    "$oid": "67a92f1439bc623085bf2808"
+  },
+  "Food Name": "Kheema Pav",
+  "Calories": 224,
+  "Proteins": 8.1,
+  "Fats": 7.6,
+  "Carbs": 30.5
+},
+{
+  "_id": {
+    "$oid": "67a92f1439bc623085bf2812"
+  },
+  "Food Name": "Anday Wala Burger",
+  "Calories": 256.5,
+  "Proteins": 10.5,
+  "Fats": 12.75,
+  "Carbs": 21.55
+},
+{
+  "_id": {
+    "$oid": "67a92f1439bc623085bf2816"
+  },
+  "Food Name": "Chicken Patties",
+  "Calories": 363.1,
+  "Proteins": 20.7,
+  "Fats": 17.56,
+  "Carbs": 30.4
+},
+{
+  "_id": {
+    "$oid": "67a92f1439bc623085bf281c"
+  },
+  "Food Name": "Bhel Puri",
+  "Calories": 188,
+  "Proteins": 5.9,
+  "Fats": 9.2,
+  "Carbs": 22
+},
+{
+  "_id": {
+    "$oid": "67a92f1439bc623085bf2821"
+  },
+  "Food Name": "Sohan Halwa",
+  "Calories": 481,
+  "Proteins": 0.3,
+  "Fats": 19.9,
+  "Carbs": 76.3
+},
+{
+  "_id": {
+    "$oid": "67a92f1439bc623085bf2826"
+  },
+  "Food Name": "Halwa gajjar",
+  "Calories": 410,
+  "Proteins": 5.1,
+  "Fats": 24.2,
+  "Carbs": 42
+},
+{
+  "_id": {
+    "$oid": "67a92f1439bc623085bf282e"
+  },
+  "Food Name": "Firni",
+  "Calories": 425.3,
+  "Proteins": 8.41,
+  "Fats": 6.98,
+  "Carbs": 83.6
+},
+{
+  "_id": {
+    "$oid": "67a92f1439bc623085bf2830"
+  },
+  "Food Name": "Chana Dal Halwa",
+  "Calories": 437.15,
+  "Proteins": 9.6,
+  "Fats": 11.95,
+  "Carbs": 70.65
+},
+{
+  "_id": {
+    "$oid": "67a92f1439bc623085bf2831"
+  },
+  "Food Name": "Kaddu Ka Halwa ",
+  "Calories": 370.85,
+  "Proteins": 1.6,
+  "Fats": 15.3,
+  "Carbs": 61.15
+},
+{
+  "_id": {
+    "$oid": "67a92f1439bc623085bf2836"
+  },
+  "Food Name": "Lab e Shireen ",
+  "Calories": 413.1,
+  "Proteins": 5.85,
+  "Fats": 20.55,
+  "Carbs": 50.8
+},
+{
+  "_id": {
+    "$oid": "67a92f1439bc623085bf283f"
+  },
+  "Food Name": "Low-Fat Custard ",
+  "Calories": 80,
+  "Proteins": 3,
+  "Fats": 1.5,
+  "Carbs": 14
+},
+{
+  "_id": {
+    "$oid": "67a92f1439bc623085bf2847"
+  },
+  "Food Name": "Chinese Hotpot",
+  "Calories": 150,
+  "Proteins": 10,
+  "Fats": 8,
+  "Carbs": 15
+},
+{
+  "_id": {
+    "$oid": "67a92f1439bc623085bf2852"
+  },
+  "Food Name": "Chicken Strips",
+  "Calories": 271,
+  "Proteins": 19.2,
+  "Fats": 13.9,
+  "Carbs": 16.1
+},
+{
+  "_id": {
+    "$oid": "67a92f1439bc623085bf2858"
+  },
+  "Food Name": "Lasagna with meat",
+  "Calories": 139,
+  "Proteins": 7.5,
+  "Fats": 5,
+  "Carbs": 14.6
+},
+{
+  "_id": {
+    "$oid": "67a92f1439bc623085bf285a"
+  },
+  "Food Name": "Fried rice ",
+  "Calories": 183,
+  "Proteins": 4.2,
+  "Fats": 5,
+  "Carbs": 30
+},
+{
+  "_id": {
+    "$oid": "67a92f1439bc623085bf2860"
+  },
+  "Food Name": "Ganne ka Ras ",
+  "Calories": 80,
+  "Proteins": 0.2,
+  "Fats": 0.1,
+  "Carbs": 18
+},
+{
+  "_id": {
+    "$oid": "67a92f1439bc623085bf2863"
+  },
+  "Food Name": "Fruit Smoothie",
+  "Calories": 98,
+  "Proteins": 1.7,
+  "Fats": 1.6,
+  "Carbs": 22
+},
+{
+  "_id": {
+    "$oid": "67a92f1439bc623085bf2869"
+  },
+  "Food Name": "Falsa Juice",
+  "Calories": 50,
+  "Proteins": 0.5,
+  "Fats": 0.1,
+  "Carbs": 12
+},
+{
+  "_id": {
+    "$oid": "67a92f1439bc623085bf286a"
+  },
+  "Food Name": "Doodh Patti",
+  "Calories": 90,
+  "Proteins": 2,
+  "Fats": 4,
+  "Carbs": 10
+},
+{
+  "_id": {
+    "$oid": "67a92f1439bc623085bf286c"
+  },
+  "Food Name": "Coffee Iced Latte",
+  "Calories": 27,
+  "Proteins": 1.7,
+  "Fats": 1,
+  "Carbs": 2.8
+},
+{
+  "_id": {
+    "$oid": "67a92f1439bc623085bf286d"
+  },
+  "Food Name": "Coffee Espresso",
+  "Calories": 9,
+  "Proteins": 0.1,
+  "Fats": 0.2,
+  "Carbs": 1.7
+},
+{
+  "_id": {
+    "$oid": "67a92f1439bc623085bf286e"
+  },
+  "Food Name": "Coffee Cappucinno\n",
+  "Calories": 27,
+  "Proteins": 1.7,
+  "Fats": 1,
+  "Carbs": 2.8
+},
+{
+  "_id": {
+    "$oid": "67a92f1439bc623085bf286f"
+  },
+  "Food Name": "Almond Milk ",
+  "Calories": 130,
+  "Proteins": 4,
+  "Fats": 8,
+  "Carbs": 10
+},
+{
+  "_id": {
+    "$oid": "67a92f1439bc623085bf2873"
+  },
+  "Food Name": "Black Berry",
+  "Calories": 64,
+  "Proteins": 1.1,
+  "Fats": 0.5,
+  "Carbs": 13
+},
+{
+  "_id": {
+    "$oid": "67a92f1439bc623085bf2877"
+  },
+  "Food Name": "Lemon",
+  "Calories": 30,
+  "Proteins": 0.7,
+  "Fats": 0.7,
+  "Carbs": 8.5
+},
+{
+  "_id": {
+    "$oid": "67a92f1439bc623085bf287f"
+  },
+  "Food Name": "Malta",
+  "Calories": 43,
+  "Proteins": 0.8,
+  "Fats": 0.2,
+  "Carbs": 10
+},
+{
+  "_id": {
+    "$oid": "67a92f1439bc623085bf2882"
+  },
+  "Food Name": "Amlok",
+  "Calories": 68,
+  "Proteins": 0.8,
+  "Fats": 0.3,
+  "Carbs": 17
+},
+{
+  "_id": {
+    "$oid": "67a92f1439bc623085bf2884"
+  },
+  "Food Name": "Alucha",
+  "Calories": 51,
+  "Proteins": 0.7,
+  "Fats": 0.3,
+  "Carbs": 13.4
+},
+{
+  "_id": {
+    "$oid": "67a92f1439bc623085bf2885"
+  },
+  "Food Name": "Anar",
+  "Calories": 66,
+  "Proteins": 1,
+  "Fats": 0.4,
+  "Carbs": 16.4
+},
+{
+  "_id": {
+    "$oid": "67a92f1439bc623085bf2889"
+  },
+  "Food Name": "Carrots",
+  "Calories": 37,
+  "Proteins": 0.9,
+  "Fats": 0.2,
+  "Carbs": 9.2
+},
+{
+  "_id": {
+    "$oid": "67a92f1439bc623085bf285b"
+  },
+  "Food Name": "Vegetable Jalfrezi",
+  "Calories": 256,
+  "Proteins": 8,
+  "Fats": 16,
+  "Carbs": 16
+},
+{
+  "_id": {
+    "$oid": "67a92f1439bc623085bf285c"
+  },
+  "Food Name": "Noodles",
+  "Calories": 137,
+  "Proteins": 4.5,
+  "Fats": 2.1,
+  "Carbs": 23.8
+},
+{
+  "_id": {
+    "$oid": "67a92f1439bc623085bf285d"
+  },
+  "Food Name": "Lassi ",
+  "Calories": 31,
+  "Proteins": 0.8,
+  "Fats": 1.2,
+  "Carbs": 0.6
+},
+{
+  "_id": {
+    "$oid": "67a92f1439bc623085bf2861"
+  },
+  "Food Name": "Kashmiri Chai",
+  "Calories": 70,
+  "Proteins": 2,
+  "Fats": 3,
+  "Carbs": 8
+},
+{
+  "_id": {
+    "$oid": "67a92f1439bc623085bf2864"
+  },
+  "Food Name": "Lemon Juice",
+  "Calories": 43,
+  "Proteins": 0.3,
+  "Fats": 0.1,
+  "Carbs": 10
+},
+{
+  "_id": {
+    "$oid": "67a92f1439bc623085bf2868"
+  },
+  "Food Name": "Green Tea"
+},
+{
+  "_id": {
+    "$oid": "67a92f1439bc623085bf286b"
+  },
+  "Food Name": "Coffee Latte\n",
+  "Calories": 43,
+  "Proteins": 2.8,
+  "Fats": 1.6,
+  "Carbs": 4.4
+},
+{
+  "_id": {
+    "$oid": "67a92f1439bc623085bf2870"
+  },
+  "Food Name": "Apple",
+  "Calories": 57,
+  "Proteins": 0.4,
+  "Fats": 0.3,
+  "Carbs": 13.9
+},
+{
+  "_id": {
+    "$oid": "67a92f1439bc623085bf2875"
+  },
+  "Food Name": "Amrood",
+  "Calories": 73,
+  "Proteins": 1,
+  "Fats": 0.4,
+  "Carbs": 15.3
+},
+{
+  "_id": {
+    "$oid": "67a92f1439bc623085bf287a"
+  },
+  "Food Name": "Mango Ripe ",
+  "Calories": 64,
+  "Proteins": 0.7,
+  "Fats": 0.3,
+  "Carbs": 15.5
+},
+{
+  "_id": {
+    "$oid": "67a92f1439bc623085bf287c"
+  },
+  "Food Name": "Tarbuz",
+  "Calories": 23,
+  "Proteins": 0.4,
+  "Fats": 0.1,
+  "Carbs": 5.5
+},
+{
+  "_id": {
+    "$oid": "67a92f1439bc623085bf2881"
+  },
+  "Food Name": "Nashpati",
+  "Calories": 58,
+  "Proteins": 0.6,
+  "Fats": 0.2,
+  "Carbs": 13.4
+},
+{
+  "_id": {
+    "$oid": "67a92f1439bc623085bf275a"
+  },
+  "Food Name": "Halwa Puri",
+  "Calories": 384.2,
+  "Proteins": 8.2,
+  "Fats": 9.22,
+  "Carbs": 69.44
+},
+{
+  "_id": {
+    "$oid": "67a92f1439bc623085bf2766"
+  },
+  "Food Name": "Naan",
+  "Calories": 394.5,
+  "Proteins": 11.65,
+  "Fats": 2.75,
+  "Carbs": 78.4
+},
+{
+  "_id": {
+    "$oid": "67a92f1439bc623085bf276a"
+  },
+  "Food Name": "Yogurt",
+  "Calories": 63,
+  "Proteins": 5.2,
+  "Fats": 1.6,
+  "Carbs": 7
+},
+{
+  "_id": {
+    "$oid": "67a92f1439bc623085bf276b"
+  },
+  "Food Name": "        \nMuffin\n",
+  "Calories": 370,
+  "Proteins": 5.8,
+  "Fats": 15.9,
+  "Carbs": 50.9
+},
+{
+  "_id": {
+    "$oid": "67a92f1439bc623085bf276c"
+  },
+  "Food Name": "Pancakes",
+  "Calories": 279,
+  "Proteins": 7.4,
+  "Fats": 11.9,
+  "Carbs": 33.2
+},
+{
+  "_id": {
+    "$oid": "67a92f1439bc623085bf2770"
+  },
+  "Food Name": "Makki Roti",
+  "Calories": 180,
+  "Proteins": 4,
+  "Fats": 6,
+  "Carbs": 28
+},
+{
+  "_id": {
+    "$oid": "67a92f1439bc623085bf2773"
+  },
+  "Food Name": "Seviyan",
+  "Calories": 345,
+  "Proteins": 9.6,
+  "Fats": 0.6,
+  "Carbs": 74.6
+},
+{
+  "_id": {
+    "$oid": "67a92f1439bc623085bf2777"
+  },
+  "Food Name": "Kulcha",
+  "Calories": 206,
+  "Proteins": 7.2,
+  "Fats": 4.43,
+  "Carbs": 37.59
+},
+{
+  "_id": {
+    "$oid": "67a92f1439bc623085bf277a"
+  },
+  "Food Name": "Badam",
+  "Calories": 613,
+  "Proteins": 18.3,
+  "Fats": 55,
+  "Carbs": 19.3
+},
+{
+  "_id": {
+    "$oid": "67a92f1439bc623085bf277d"
+  },
+  "Food Name": "Kaju",
+  "Calories": 528,
+  "Proteins": 20.3,
+  "Fats": 43.7,
+  "Carbs": 28.4
+},
+{
+  "_id": {
+    "$oid": "67a92f1439bc623085bf277e"
+  },
+  "Food Name": "Khopra",
+  "Calories": 321,
+  "Proteins": 3.1,
+  "Fats": 29.2,
+  "Carbs": 16.4
+},
+{
+  "_id": {
+    "$oid": "67a92f1439bc623085bf277f"
+  },
+  "Food Name": "Chilgoza",
+  "Calories": 572,
+  "Proteins": 17.3,
+  "Fats": 40,
+  "Carbs": 35.2
+},
+{
+  "_id": {
+    "$oid": "67a92f1439bc623085bf2781"
+  },
+  "Food Name": "Rewri",
+  "Calories": 470,
+  "Proteins": 8,
+  "Fats": 20,
+  "Carbs": 60
+},
+{
+  "_id": {
+    "$oid": "67a92f1439bc623085bf278b"
+  },
+  "Food Name": "Aloo Baingan",
+  "Calories": 100,
+  "Proteins": 2,
+  "Fats": 5,
+  "Carbs": 12
+},
+{
+  "_id": {
+    "$oid": "67a92f1439bc623085bf2791"
+  },
+  "Food Name": "Karahi",
+  "Calories": 297.5,
+  "Proteins": 32.4,
+  "Fats": 14,
+  "Carbs": 8.9
+},
+{
+  "_id": {
+    "$oid": "67a92f1439bc623085bf2792"
+  },
+  "Food Name": "Aloo Turai",
+  "Calories": 134,
+  "Proteins": 3.3,
+  "Fats": 7.9,
+  "Carbs": 15
+},
+{
+  "_id": {
+    "$oid": "67a92f1439bc623085bf2794"
+  },
+  "Food Name": "Aloo Methi",
+  "Calories": 251,
+  "Proteins": 4.2,
+  "Fats": 14.7,
+  "Carbs": 27.6
+},
+{
+  "_id": {
+    "$oid": "67a92f1439bc623085bf279b"
+  },
+  "Food Name": "Bhindi",
+  "Calories": 163.7,
+  "Proteins": 3.3,
+  "Fats": 10.6,
+  "Carbs": 15.5
+},
+{
+  "_id": {
+    "$oid": "67a92f1439bc623085bf27a0"
+  },
+  "Food Name": "Sarson Ka Saag",
+  "Calories": 186,
+  "Proteins": 5.55,
+  "Fats": 11.95,
+  "Carbs": 17.8
+},
+{
+  "_id": {
+    "$oid": "67a92f1439bc623085bf27a1"
+  },
+  "Food Name": "Methi Matar Malai",
+  "Calories": 200,
+  "Proteins": 7.32,
+  "Fats": 12.63,
+  "Carbs": 18.09
+},
+{
+  "_id": {
+    "$oid": "67a92f1439bc623085bf27a4"
+  },
+  "Food Name": "Biryani",
+  "Calories": 257.2,
+  "Proteins": 20.85,
+  "Fats": 3.8,
+  "Carbs": 34.21
+},
+{
+  "_id": {
+    "$oid": "67a92f1439bc623085bf27b4"
+  },
+  "Food Name": "Chapli Kabab",
+  "Calories": 402.7,
+  "Proteins": 28.07,
+  "Fats": 32.18,
+  "Carbs": 10.62
+},
+{
+  "_id": {
+    "$oid": "67a92f1439bc623085bf27b5"
+  },
+  "Food Name": "Lobia ",
+  "Calories": 95,
+  "Proteins": 6,
+  "Fats": 2,
+  "Carbs": 15
+},
+{
+  "_id": {
+    "$oid": "67a92f1439bc623085bf27b6"
+  },
+  "Food Name": "Peshawari Chapli Kebab",
+  "Calories": 270,
+  "Proteins": 20,
+  "Fats": 20,
+  "Carbs": 9
+},
+{
+  "_id": {
+    "$oid": "67a92f1439bc623085bf27bc"
+  },
+  "Food Name": "Fish (Roa)",
+  "Calories": 101,
+  "Proteins": 19,
+  "Fats": 2.2,
+  "Carbs": 2.9
+},
+{
+  "_id": {
+    "$oid": "67a92f1439bc623085bf27c5"
+  },
+  "Food Name": "Prawn",
+  "Calories": 96,
+  "Proteins": 16.5,
+  "Fats": 1.3,
+  "Carbs": 1.1
+},
+{
+  "_id": {
+    "$oid": "67a92f1439bc623085bf27c9"
+  },
+  "Food Name": "Hot and Sour Soup",
+  "Calories": 60,
+  "Proteins": 4,
+  "Fats": 2,
+  "Carbs": 7
+},
+{
+  "_id": {
+    "$oid": "67a92f1439bc623085bf27cf"
+  },
+  "Food Name": "Chicken Handi",
+  "Calories": 486,
+  "Proteins": 32.8,
+  "Fats": 38.45,
+  "Carbs": 5.25
+},
+{
+  "_id": {
+    "$oid": "67a92f1439bc623085bf27d3"
+  },
+  "Food Name": "Steak",
+  "Calories": 250,
+  "Proteins": 26,
+  "Fats": 17,
+  "Carbs": 0
+},
+{
+  "_id": {
+    "$oid": "67a92f1439bc623085bf27db"
+  },
+  "Food Name": "Kat a Kat ",
+  "Calories": 340.5,
+  "Proteins": 35.9,
+  "Fats": 17.4,
+  "Carbs": 6.9
+},
+{
+  "_id": {
+    "$oid": "67a92f1439bc623085bf27dd"
+  },
+  "Food Name": "Aloo gawar Phali ",
+  "Calories": 102,
+  "Proteins": 3,
+  "Fats": 5,
+  "Carbs": 12
+},
+{
+  "_id": {
+    "$oid": "67a92f1439bc623085bf27e0"
+  },
+  "Food Name": "Murgh Makhni",
+  "Calories": 563.3,
+  "Proteins": 28.925,
+  "Fats": 47.6,
+  "Carbs": 5.675
+},
+{
+  "_id": {
+    "$oid": "67a92f1439bc623085bf27e5"
+  },
+  "Food Name": "Mutton Chops Masala",
+  "Calories": 468,
+  "Proteins": 38.3,
+  "Fats": 33.8,
+  "Carbs": 4.8
+},
+{
+  "_id": {
+    "$oid": "67a92f1439bc623085bf27e6"
+  },
+  "Food Name": "Bihari Kabab",
+  "Calories": 402,
+  "Proteins": 39.8,
+  "Fats": 23.3,
+  "Carbs": 4.8
+},
+{
+  "_id": {
+    "$oid": "67a92f1439bc623085bf27ec"
+  },
+  "Food Name": "Kalay Chanay",
+  "Calories": 379,
+  "Proteins": 19.35,
+  "Fats": 6.8,
+  "Carbs": 61.5
+},
+{
+  "_id": {
+    "$oid": "67a92f1439bc623085bf27f3"
+  },
+  "Food Name": "Aloo Curry",
+  "Calories": 400,
+  "Proteins": 38.3,
+  "Fats": 30.7,
+  "Carbs": 4
+},
+{
+  "_id": {
+    "$oid": "67a92f1439bc623085bf27f4"
+  },
+  "Food Name": "Afghani Pulao",
+  "Calories": 525,
+  "Proteins": 40.95,
+  "Fats": 30.4,
+  "Carbs": 32.5
+},
+{
+  "_id": {
+    "$oid": "67a92f1439bc623085bf27f6"
+  },
+  "Food Name": "Peshawari Karahi",
+  "Calories": 272.5,
+  "Proteins": 47.3,
+  "Fats": 6.1,
+  "Carbs": 4
+},
+{
+  "_id": {
+    "$oid": "67a92f1439bc623085bf27ff"
+  },
+  "Food Name": "Gobi Manchurian",
+  "Calories": 175,
+  "Proteins": 2.9,
+  "Fats": 8.95,
+  "Carbs": 21.33
+},
+{
+  "_id": {
+    "$oid": "67a92f1439bc623085bf2804"
+  },
+  "Food Name": "Vegetable Pakora",
+  "Calories": 200,
+  "Proteins": 5,
+  "Fats": 12,
+  "Carbs": 20
+},
+{
+  "_id": {
+    "$oid": "67a92f1439bc623085bf2805"
+  },
+  "Food Name": "Chinese Spring Rolls",
+  "Calories": 160,
+  "Proteins": 10,
+  "Fats": 8,
+  "Carbs": 16
+},
+{
+  "_id": {
+    "$oid": "67a92f1439bc623085bf2809"
+  },
+  "Food Name": "Dahi Puri",
+  "Calories": 120,
+  "Proteins": 4,
+  "Fats": 6,
+  "Carbs": 14
+},
+{
+  "_id": {
+    "$oid": "67a92f1439bc623085bf2810"
+  },
+  "Food Name": "Fried Aloo",
+  "Calories": 277.5,
+  "Proteins": 2.4,
+  "Fats": 20.4,
+  "Carbs": 23.4
+},
+{
+  "_id": {
+    "$oid": "67a92f1439bc623085bf2813"
+  },
+  "Food Name": "Pakoras ",
+  "Calories": 329.7,
+  "Proteins": 7.4,
+  "Fats": 21.8,
+  "Carbs": 25.8
+},
+{
+  "_id": {
+    "$oid": "67a92f1439bc623085bf2818"
+  },
+  "Food Name": "Aloo Tikki",
+  "Calories": 289,
+  "Proteins": 3.8,
+  "Fats": 15.6,
+  "Carbs": 34
+},
+{
+  "_id": {
+    "$oid": "67a92f1439bc623085bf281a"
+  },
+  "Food Name": "Mathri",
+  "Calories": 362,
+  "Proteins": 6.5,
+  "Fats": 20.95,
+  "Carbs": 38
+},
+{
+  "_id": {
+    "$oid": "67a92f1439bc623085bf281b"
+  },
+  "Food Name": "Fish Pakora",
+  "Calories": 348.1,
+  "Proteins": 28.6,
+  "Fats": 15.8,
+  "Carbs": 17.4
+},
+{
+  "_id": {
+    "$oid": "67a92f1439bc623085bf281d"
+  },
+  "Food Name": "Vegetable Spring Rolls",
+  "Calories": 148,
+  "Proteins": 3.7,
+  "Fats": 6.2,
+  "Carbs": 19
+},
+{
+  "_id": {
+    "$oid": "67a92f1439bc623085bf2823"
+  },
+  "Food Name": "Panjiri",
+  "Calories": 450,
+  "Proteins": 8,
+  "Fats": 20,
+  "Carbs": 55
+},
+{
+  "_id": {
+    "$oid": "67a92f1439bc623085bf2825"
+  },
+  "Food Name": "Waffles",
+  "Calories": 291,
+  "Proteins": 7,
+  "Fats": 14,
+  "Carbs": 33
+},
+{
+  "_id": {
+    "$oid": "67a92f1439bc623085bf2829"
+  },
+  "Food Name": "Banana Kheer ",
+  "Calories": 200,
+  "Proteins": 3,
+  "Fats": 2.8,
+  "Carbs": 0
+},
+{
+  "_id": {
+    "$oid": "67a92f1439bc623085bf282b"
+  },
+  "Food Name": "Zarda ",
+  "Calories": 246,
+  "Proteins": 4.5,
+  "Fats": 4,
+  "Carbs": 46.5
+},
+{
+  "_id": {
+    "$oid": "67a92f1439bc623085bf2833"
+  },
+  "Food Name": "Sheer Khurma",
+  "Calories": 587.2,
+  "Proteins": 8.66,
+  "Fats": 20.39,
+  "Carbs": 92.2
+},
+{
+  "_id": {
+    "$oid": "67a92f1439bc623085bf2834"
+  },
+  "Food Name": "Kaju Katli ",
+  "Calories": 482.6,
+  "Proteins": 9,
+  "Fats": 32,
+  "Carbs": 45
+},
+{
+  "_id": {
+    "$oid": "67a92f1439bc623085bf2835"
+  },
+  "Food Name": "Anday Ka Halwa",
+  "Calories": 397.45,
+  "Proteins": 12.6,
+  "Fats": 24.65,
+  "Carbs": 31.75
+},
+{
+  "_id": {
+    "$oid": "67a92f1439bc623085bf2837"
+  },
+  "Food Name": "Mithai ",
+  "Calories": 320,
+  "Proteins": 4,
+  "Fats": 16,
+  "Carbs": 35
+},
+{
+  "_id": {
+    "$oid": "67a92f1439bc623085bf2838"
+  },
+  "Food Name": "Rasgulla",
+  "Calories": 120,
+  "Proteins": 1.7,
+  "Fats": 1.8,
+  "Carbs": 25
+},
+{
+  "_id": {
+    "$oid": "67a92f1439bc623085bf2839"
+  },
+  "Food Name": "Rabri",
+  "Calories": 227.11,
+  "Proteins": 3.4,
+  "Fats": 3.62,
+  "Carbs": 45.98
+},
+{
+  "_id": {
+    "$oid": "67a92f1439bc623085bf283d"
+  },
+  "Food Name": "Custard",
+  "Calories": 122,
+  "Proteins": 3.5,
+  "Fats": 4,
+  "Carbs": 18
+},
+{
+  "_id": {
+    "$oid": "67a92f1439bc623085bf2846"
+  },
+  "Food Name": "Zinger Burger",
+  "Calories": 548.5,
+  "Proteins": 28.2,
+  "Fats": 29.5,
+  "Carbs": 42.7
+},
+{
+  "_id": {
+    "$oid": "67a92f1439bc623085bf284a"
+  },
+  "Food Name": "Club Sandwich",
+  "Calories": 430.5,
+  "Proteins": 22.1,
+  "Fats": 18.2,
+  "Carbs": 39.4
+},
+{
+  "_id": {
+    "$oid": "67a92f1439bc623085bf284f"
+  },
+  "Food Name": "Loaded Fries ",
+  "Calories": 235,
+  "Proteins": 5.9,
+  "Fats": 12.9,
+  "Carbs": 20
+},
+{
+  "_id": {
+    "$oid": "67a92f1439bc623085bf2851"
+  },
+  "Food Name": "Chicken wings",
+  "Calories": 322,
+  "Proteins": 17.7,
+  "Fats": 21.2,
+  "Carbs": 14.6
+},
+{
+  "_id": {
+    "$oid": "67a92f1439bc623085bf2856"
+  },
+  "Food Name": "Pasta",
+  "Calories": 157,
+  "Proteins": 5.8,
+  "Fats": 0.9,
+  "Carbs": 28.9
+},
+{
+  "_id": {
+    "$oid": "67a92f1439bc623085bf2859"
+  },
+  "Food Name": "Lasana with chicken or turkey",
+  "Calories": 204,
+  "Proteins": 13.7,
+  "Fats": 10.4,
+  "Carbs": 13
+},
+{
+  "_id": {
+    "$oid": "67a92f1439bc623085bf2871"
+  },
+  "Food Name": "Apricot",
+  "Calories": 53,
+  "Proteins": 0.8,
+  "Fats": 0.3,
+  "Carbs": 12.5
+},
+{
+  "_id": {
+    "$oid": "67a92f1439bc623085bf2876"
+  },
+  "Food Name": "Jamun",
+  "Calories": 82,
+  "Proteins": 1,
+  "Fats": 0.2,
+  "Carbs": 13.3
+},
+{
+  "_id": {
+    "$oid": "67a92f1439bc623085bf2878"
+  },
+  "Food Name": "Lichi",
+  "Calories": 62,
+  "Proteins": 0.9,
+  "Fats": 0.2,
+  "Carbs": 15.3
+},
+{
+  "_id": {
+    "$oid": "67a92f1439bc623085bf2879"
+  },
+  "Food Name": "Khajur",
+  "Calories": 45,
+  "Proteins": 0.7,
+  "Fats": 0.2,
+  "Carbs": 10.8
+},
+{
+  "_id": {
+    "$oid": "67a92f1439bc623085bf2883"
+  },
+  "Food Name": "Pineapple",
+  "Calories": 45,
+  "Proteins": 0.7,
+  "Fats": 0.2,
+  "Carbs": 11
+},
+{
+  "_id": {
+    "$oid": "67a92f1439bc623085bf2887"
+  },
+  "Food Name": "Falsa",
+  "Calories": 78,
+  "Proteins": 1.6,
+  "Fats": 0.5,
+  "Carbs": 17.9
+},
+{
+  "_id": {
+    "$oid": "67a92f1439bc623085bf2755"
+  },
+  "Food Name": "Aloo Paratha",
+  "Calories": 320,
+  "Proteins": 8.56,
+  "Fats": 9.3,
+  "Carbs": 52.86
+},
+{
+  "_id": {
+    "$oid": "67a92f1439bc623085bf2756"
+  },
+  "Food Name": "Mooli Paratha",
+  "Calories": 315,
+  "Proteins": 5.75,
+  "Fats": 14.15,
+  "Carbs": 42.53
+},
+{
+  "_id": {
+    "$oid": "67a92f1439bc623085bf275f"
+  },
+  "Food Name": "Omelette ",
+  "Calories": 140,
+  "Proteins": 7.2,
+  "Fats": 10.42,
+  "Carbs": 5.15
+},
+{
+  "_id": {
+    "$oid": "67a92f1439bc623085bf2765"
+  },
+  "Food Name": "Roghni Naan",
+  "Calories": 524.26,
+  "Proteins": 11.6,
+  "Fats": 12.625,
+  "Carbs": 88.94
+},
+{
+  "_id": {
+    "$oid": "67a92f1439bc623085bf2768"
+  },
+  "Food Name": "Egg fried",
+  "Calories": 196,
+  "Proteins": 13.6,
+  "Fats": 14.8,
+  "Carbs": 0.8
+},
+{
+  "_id": {
+    "$oid": "67a92f1439bc623085bf2769"
+  },
+  "Food Name": "Upma",
+  "Calories": 86,
+  "Proteins": 2,
+  "Fats": 2.6,
+  "Carbs": 12.5
+},
+{
+  "_id": {
+    "$oid": "67a92f1439bc623085bf276e"
+  },
+  "Food Name": "Double Roti",
+  "Calories": 263,
+  "Proteins": 8.4,
+  "Fats": 1.3,
+  "Carbs": 54.8
+},
+{
+  "_id": {
+    "$oid": "67a92f1439bc623085bf2780"
+  },
+  "Food Name": "Pista",
+  "Calories": 590,
+  "Proteins": 22.5,
+  "Fats": 55.7,
+  "Carbs": 14.1
+},
+{
+  "_id": {
+    "$oid": "67a92f1439bc623085bf2782"
+  },
+  "Food Name": "Qorma",
+  "Calories": 302.2,
+  "Proteins": 32.85,
+  "Fats": 14.99,
+  "Carbs": 7.41
+},
+{
+  "_id": {
+    "$oid": "67a92f1439bc623085bf2783"
+  },
+  "Food Name": "Ojri ",
+  "Calories": 150,
+  "Proteins": 15,
+  "Fats": 8,
+  "Carbs": 3
+},
+{
+  "_id": {
+    "$oid": "67a92f1439bc623085bf2785"
+  },
+  "Food Name": "Beef Chili Dry",
+  "Calories": 200,
+  "Proteins": 15,
+  "Fats": 12,
+  "Carbs": 6
+},
+{
+  "_id": {
+    "$oid": "67a92f1439bc623085bf2786"
+  },
+  "Food Name": "Khow Suey",
+  "Calories": 160,
+  "Proteins": 6,
+  "Fats": 9,
+  "Carbs": 14
+},
+{
+  "_id": {
+    "$oid": "67a92f1439bc623085bf2787"
+  },
+  "Food Name": "Trifle",
+  "Calories": 168,
+  "Proteins": 3.5,
+  "Fats": 7.1,
+  "Carbs": 23
+},
+{
+  "_id": {
+    "$oid": "67a92f1439bc623085bf2788"
+  },
+  "Food Name": "Aloo gosht",
+  "Calories": 403.9,
+  "Proteins": 27.6,
+  "Fats": 28.4,
+  "Carbs": 15
+},
+{
+  "_id": {
+    "$oid": "67a92f1439bc623085bf2789"
+  },
+  "Food Name": "Aloo Capsicum",
+  "Calories": 192,
+  "Proteins": 3.2,
+  "Fats": 15,
+  "Carbs": 15
+},
+{
+  "_id": {
+    "$oid": "67a92f1439bc623085bf278a"
+  },
+  "Food Name": "Daal Chawal ",
+  "Calories": 414.5,
+  "Proteins": 13.45,
+  "Fats": 11.25,
+  "Carbs": 64.4
+},
+{
+  "_id": {
+    "$oid": "67a92f1439bc623085bf278e"
+  },
+  "Food Name": "Daal Mash ",
+  "Calories": 125,
+  "Proteins": 6.5,
+  "Fats": 4,
+  "Carbs": 14
+},
+{
+  "_id": {
+    "$oid": "67a92f1439bc623085bf278f"
+  },
+  "Food Name": "Aloo Anday",
+  "Calories": 120,
+  "Proteins": 6,
+  "Fats": 7,
+  "Carbs": 10
+},
+{
+  "_id": {
+    "$oid": "67a92f1439bc623085bf2796"
+  },
+  "Food Name": "Aloo Matar",
+  "Calories": 35.8,
+  "Proteins": 1.3,
+  "Fats": 2.3,
+  "Carbs": 3
+},
+{
+  "_id": {
+    "$oid": "67a92f1439bc623085bf2798"
+  },
+  "Food Name": "Kofta ",
+  "Calories": 380.7,
+  "Proteins": 27.3,
+  "Fats": 25.4,
+  "Carbs": 8.5
+},
+{
+  "_id": {
+    "$oid": "67a92f1439bc623085bf279c"
+  },
+  "Food Name": "Baingan Ka Bharta ",
+  "Calories": 157.5,
+  "Proteins": 2.4,
+  "Fats": 10.6,
+  "Carbs": 14.9
+},
+{
+  "_id": {
+    "$oid": "67a92f1439bc623085bf279d"
+  },
+  "Food Name": "Palak Paneer",
+  "Calories": 288,
+  "Proteins": 13.3,
+  "Fats": 20.8,
+  "Carbs": 13.1
+},
+{
+  "_id": {
+    "$oid": "67a92f1439bc623085bf279f"
+  },
+  "Food Name": "Paneer Butter Masala",
+  "Calories": 211,
+  "Proteins": 7.68,
+  "Fats": 16.66,
+  "Carbs": 8.83
+},
+{
+  "_id": {
+    "$oid": "67a92f1439bc623085bf27a6"
+  },
+  "Food Name": "Chicken Shashlik",
+  "Calories": 170,
+  "Proteins": 20,
+  "Fats": 6,
+  "Carbs": 4
+},
+{
+  "_id": {
+    "$oid": "67a92f1439bc623085bf27aa"
+  },
+  "Food Name": "Paya",
+  "Calories": 488.3,
+  "Proteins": 26,
+  "Fats": 33.78,
+  "Carbs": 17.6
+},
+{
+  "_id": {
+    "$oid": "67a92f1439bc623085bf27ab"
+  },
+  "Food Name": "Palak gosht ",
+  "Calories": 376.5,
+  "Proteins": 28.3,
+  "Fats": 31.8,
+  "Carbs": 6
+},
+{
+  "_id": {
+    "$oid": "67a92f1439bc623085bf27ae"
+  },
+  "Food Name": "Masoor Dal",
+  "Calories": 158,
+  "Proteins": 8.59,
+  "Fats": 2.8,
+  "Carbs": 25.45
+},
+{
+  "_id": {
+    "$oid": "67a92f1439bc623085bf27b3"
+  },
+  "Food Name": "Shalgam ki Sabzi ",
+  "Calories": 50,
+  "Proteins": 1.2,
+  "Fats": 1,
+  "Carbs": 6
+},
+{
+  "_id": {
+    "$oid": "67a92f1439bc623085bf27be"
+  },
+  "Food Name": "Fish (Khaga)",
+  "Calories": 104,
+  "Proteins": 19.7,
+  "Fats": 1.8,
+  "Carbs": 1.1
+},
+{
+  "_id": {
+    "$oid": "67a92f1439bc623085bf27bf"
+  },
+  "Food Name": "Fish (Shanghara)",
+  "Calories": 132,
+  "Proteins": 21.2,
+  "Fats": 3.4,
+  "Carbs": 1.8
+},
+{
+  "_id": {
+    "$oid": "67a92f1439bc623085bf27c3"
+  },
+  "Food Name": "Ilish Macher Jhol",
+  "Calories": 117,
+  "Proteins": 11.62,
+  "Fats": 5.28,
+  "Carbs": 5.93
+},
+{
+  "_id": {
+    "$oid": "67a92f1439bc623085bf27cd"
+  },
+  "Food Name": "Mutton Handi",
+  "Calories": 541,
+  "Proteins": 30.8,
+  "Fats": 45.45,
+  "Carbs": 5.25
+},
+{
+  "_id": {
+    "$oid": "67a92f1439bc623085bf27d0"
+  },
+  "Food Name": "Mix Sabzi",
+  "Calories": 95,
+  "Proteins": 2.5,
+  "Fats": 5,
+  "Carbs": 10
+},
+{
+  "_id": {
+    "$oid": "67a92f1439bc623085bf27d1"
+  },
+  "Food Name": "Chicken Chettinad",
+  "Calories": 180,
+  "Proteins": 16.22,
+  "Fats": 10.07,
+  "Carbs": 7.19
+},
+{
+  "_id": {
+    "$oid": "67a92f1439bc623085bf27d6"
+  },
+  "Food Name": "Gola Kabab",
+  "Calories": 369.5,
+  "Proteins": 26.8,
+  "Fats": 27.4,
+  "Carbs": 6
+},
+{
+  "_id": {
+    "$oid": "67a92f1439bc623085bf27d8"
+  },
+  "Food Name": "Malai Boti",
+  "Calories": 508.1,
+  "Proteins": 33.09,
+  "Fats": 40.2,
+  "Carbs": 3.41
+},
+{
+  "_id": {
+    "$oid": "67a92f1439bc623085bf27df"
+  },
+  "Food Name": "Butter Chicken",
+  "Calories": 508.4,
+  "Proteins": 28.68,
+  "Fats": 41.7,
+  "Carbs": 5.15
+},
+{
+  "_id": {
+    "$oid": "67a92f1439bc623085bf27e1"
+  },
+  "Food Name": "Raan Roast",
+  "Calories": 717.2,
+  "Proteins": 52.64,
+  "Fats": 50.4,
+  "Carbs": 7.15
+},
+{
+  "_id": {
+    "$oid": "67a92f1439bc623085bf27e7"
+  },
+  "Food Name": "Prawn Karahi",
+  "Calories": 175.5,
+  "Proteins": 30.8,
+  "Fats": 2.3,
+  "Carbs": 4.8
+},
+{
+  "_id": {
+    "$oid": "67a92f1439bc623085bf27eb"
+  },
+  "Food Name": "Lahori Fried Fish",
+  "Calories": 330,
+  "Proteins": 30.6,
+  "Fats": 15.3,
+  "Carbs": 6
+},
+{
+  "_id": {
+    "$oid": "67a92f1439bc623085bf27ef"
+  },
+  "Food Name": "Beef Korma",
+  "Calories": 151,
+  "Proteins": 8,
+  "Fats": 6,
+  "Carbs": 16
+},
+{
+  "_id": {
+    "$oid": "67a92f1439bc623085bf27f0"
+  },
+  "Food Name": "Peshawari Chapli Kebab ",
+  "Calories": 385,
+  "Proteins": 20,
+  "Fats": 35,
+  "Carbs": 0
+},
+{
+  "_id": {
+    "$oid": "67a92f1439bc623085bf27f2"
+  },
+  "Food Name": "Tikka Kabab ",
+  "Calories": 613,
+  "Proteins": 50.8,
+  "Fats": 44.7,
+  "Carbs": 4
+},
+{
+  "_id": {
+    "$oid": "67a92f1439bc623085bf27f8"
+  },
+  "Food Name": "Gosht ",
+  "Calories": 420,
+  "Proteins": 38.8,
+  "Fats": 30.75,
+  "Carbs": 8.5
+},
+{
+  "_id": {
+    "$oid": "67a92f1439bc623085bf27fd"
+  },
+  "Food Name": "Matar Paneer",
+  "Calories": 599,
+  "Proteins": 23,
+  "Fats": 46,
+  "Carbs": 25
+},
+{
+  "_id": {
+    "$oid": "67a92f1439bc623085bf27fe"
+  },
+  "Food Name": "Bhuna gosht",
+  "Calories": 578.15,
+  "Proteins": 27.71,
+  "Fats": 44.01,
+  "Carbs": 15.9
+},
+{
+  "_id": {
+    "$oid": "67a92f1439bc623085bf2806"
+  },
+  "Food Name": "Patra ",
+  "Calories": 185,
+  "Proteins": 5.78,
+  "Fats": 3.61,
+  "Carbs": 32.98
+},
+{
+  "_id": {
+    "$oid": "67a92f1439bc623085bf280b"
+  },
+  "Food Name": "Gol Gappay",
+  "Calories": 315.2,
+  "Proteins": 4.2,
+  "Fats": 10,
+  "Carbs": 51.3
+},
+{
+  "_id": {
+    "$oid": "67a92f1439bc623085bf280d"
+  },
+  "Food Name": "Chana Chaat",
+  "Calories": 110,
+  "Proteins": 4.8,
+  "Fats": 1.3,
+  "Carbs": 20.7
+},
+{
+  "_id": {
+    "$oid": "67a92f1439bc623085bf280e"
+  },
+  "Food Name": "Aloo Chaat",
+  "Calories": 82,
+  "Proteins": 1.1,
+  "Fats": 0,
+  "Carbs": 20.5
+},
+{
+  "_id": {
+    "$oid": "67a92f1439bc623085bf280f"
+  },
+  "Food Name": "Bun Kebab",
+  "Calories": 250,
+  "Proteins": 11.5,
+  "Fats": 12,
+  "Carbs": 20
+},
+{
+  "_id": {
+    "$oid": "67a92f1439bc623085bf2817"
+  },
+  "Food Name": "Kachori with Chutney",
+  "Calories": 374,
+  "Proteins": 6.5,
+  "Fats": 20.95,
+  "Carbs": 41
+},
+{
+  "_id": {
+    "$oid": "67a92f1439bc623085bf281f"
+  },
+  "Food Name": "Jaleebi",
+  "Calories": 395,
+  "Proteins": 0.8,
+  "Fats": 9.8,
+  "Carbs": 77.6
+},
+{
+  "_id": {
+    "$oid": "67a92f1439bc623085bf2822"
+  },
+  "Food Name": "Halwa Suji",
+  "Calories": 337,
+  "Proteins": 2.9,
+  "Fats": 12,
+  "Carbs": 52.1
+},
+{
+  "_id": {
+    "$oid": "67a92f1439bc623085bf2824"
+  },
+  "Food Name": "kheer",
+  "Calories": 125,
+  "Proteins": 3.6,
+  "Fats": 2.7,
+  "Carbs": 18.2
+},
+{
+  "_id": {
+    "$oid": "67a92f1439bc623085bf2827"
+  },
+  "Food Name": "Feerni",
+  "Calories": 200,
+  "Proteins": 5.2,
+  "Fats": 3,
+  "Carbs": 0
+},
+{
+  "_id": {
+    "$oid": "67a92f1439bc623085bf282c"
+  },
+  "Food Name": "Falooda",
+  "Calories": 323.95,
+  "Proteins": 5.725,
+  "Fats": 3.655,
+  "Carbs": 0
+},
+{
+  "_id": {
+    "$oid": "67a92f1439bc623085bf282d"
+  },
+  "Food Name": "Kulfi",
+  "Calories": 437.75,
+  "Proteins": 9.49,
+  "Fats": 13.595,
+  "Carbs": 73.68
+},
+{
+  "_id": {
+    "$oid": "67a92f1439bc623085bf282f"
+  },
+  "Food Name": "Jalebi with Rabri",
+  "Calories": 359.1,
+  "Proteins": 8.35,
+  "Fats": 3.89,
+  "Carbs": 72.8
+},
+{
+  "_id": {
+    "$oid": "67a92f1439bc623085bf283b"
+  },
+  "Food Name": "Besan Ladoo",
+  "Calories": 211,
+  "Proteins": 4.2,
+  "Fats": 11,
+  "Carbs": 24
+},
+{
+  "_id": {
+    "$oid": "67a92f1439bc623085bf283e"
+  },
+  "Food Name": "Fruit Custard",
+  "Calories": 110,
+  "Proteins": 2.8,
+  "Fats": 3,
+  "Carbs": 20
+},
+{
+  "_id": {
+    "$oid": "67a92f1439bc623085bf2840"
+  },
+  "Food Name": "Egg Custard",
+  "Calories": 140,
+  "Proteins": 4.5,
+  "Fats": 5,
+  "Carbs": 18
+},
+{
+  "_id": {
+    "$oid": "67a92f1439bc623085bf2841"
+  },
+  "Food Name": "Vanilla Custard",
+  "Calories": 130,
+  "Proteins": 3.5,
+  "Fats": 4,
+  "Carbs": 19
+},
+{
+  "_id": {
+    "$oid": "67a92f1439bc623085bf2845"
+  },
+  "Food Name": " Pizza",
+  "Calories": 371,
+  "Proteins": 14.5,
+  "Fats": 11.8,
+  "Carbs": 47.9
+},
+{
+  "_id": {
+    "$oid": "67a92f1439bc623085bf2848"
+  },
+  "Food Name": "Fried Chicken Wings ",
+  "Calories": 250,
+  "Proteins": 20,
+  "Fats": 18,
+  "Carbs": 5
+},
+{
+  "_id": {
+    "$oid": "67a92f1439bc623085bf2849"
+  },
+  "Food Name": "Chicken Malai Boti",
+  "Calories": 250,
+  "Proteins": 22,
+  "Fats": 18,
+  "Carbs": 3
+},
+{
+  "_id": {
+    "$oid": "67a92f1439bc623085bf284c"
+  },
+  "Food Name": "Paratha Shawarma ",
+  "Calories": 230,
+  "Proteins": 12,
+  "Fats": 10,
+  "Carbs": 23
+},
+{
+  "_id": {
+    "$oid": "67a92f1439bc623085bf284d"
+  },
+  "Food Name": "Beef Burer",
+  "Calories": 212,
+  "Proteins": 18.6,
+  "Fats": 15,
+  "Carbs": 0
+},
+{
+  "_id": {
+    "$oid": "67a92f1439bc623085bf2850"
+  },
+  "Food Name": "Chicken Nuggets",
+  "Calories": 307,
+  "Proteins": 15.9,
+  "Fats": 20.4,
+  "Carbs": 14
+},
+{
+  "_id": {
+    "$oid": "67a92f1439bc623085bf2853"
+  },
+  "Food Name": "Cheese ball",
+  "Calories": 426,
+  "Proteins": 18.1,
+  "Fats": 38.1,
+  "Carbs": 4.1
+},
+{
+  "_id": {
+    "$oid": "67a92f1439bc623085bf2854"
+  },
+  "Food Name": "Spaghetti",
+  "Calories": 158,
+  "Proteins": 6,
+  "Fats": 0.9,
+  "Carbs": 31
+},
+{
+  "_id": {
+    "$oid": "67a92f1439bc623085bf2855"
+  },
+  "Food Name": "Cheese Garlic Bread",
+  "Calories": 300,
+  "Proteins": 11.7,
+  "Fats": 11.7,
+  "Carbs": 31.6
+},
+{
+  "_id": {
+    "$oid": "67a92f1439bc623085bf2857"
+  },
+  "Food Name": "Macaroni",
+  "Calories": 128,
+  "Proteins": 4.5,
+  "Fats": 0.1,
+  "Carbs": 22.3
+},
+{
+  "_id": {
+    "$oid": "67a92f1439bc623085bf285e"
+  },
+  "Food Name": "Protein Shake",
+  "Calories": 423,
+  "Proteins": 43,
+  "Fats": 13,
+  "Carbs": 180
+},
+{
+  "_id": {
+    "$oid": "67a92f1439bc623085bf285f"
+  },
+  "Food Name": "Banana Shake",
+  "Calories": 1110,
+  "Proteins": 68,
+  "Fats": 24,
+  "Carbs": 172
+},
+{
+  "_id": {
+    "$oid": "67a92f1439bc623085bf2862"
+  },
+  "Food Name": "Carbonated Beverages ",
+  "Calories": 39,
+  "Proteins": 0,
+  "Fats": 0,
+  "Carbs": 9.8
+},
+{
+  "_id": {
+    "$oid": "67a92f1439bc623085bf2865"
+  },
+  "Food Name": "Mango Juice",
+  "Calories": 74,
+  "Proteins": 0.4,
+  "Fats": 0.4,
+  "Carbs": 12.8
+},
+{
+  "_id": {
+    "$oid": "67a92f1439bc623085bf2866"
+  },
+  "Food Name": "Rooh Afza",
+  "Calories": 60,
+  "Proteins": 0,
+  "Fats": 0,
+  "Carbs": 15
+},
+{
+  "_id": {
+    "$oid": "67a92f1439bc623085bf2867"
+  },
+  "Food Name": "Tea",
+  "Calories": 30,
+  "Proteins": 0,
+  "Fats": 0,
+  "Carbs": 0.3
+},
+{
+  "_id": {
+    "$oid": "67a92f1439bc623085bf2872"
+  },
+  "Food Name": "Banana",
+  "Calories": 96,
+  "Proteins": 1.3,
+  "Fats": 0.4,
+  "Carbs": 23.6
+},
+{
+  "_id": {
+    "$oid": "67a92f1439bc623085bf2874"
+  },
+  "Food Name": "Grapes",
+  "Calories": 71,
+  "Proteins": 0.5,
+  "Fats": 0.3,
+  "Carbs": 15
+},
+{
+  "_id": {
+    "$oid": "67a92f1439bc623085bf287b"
+  },
+  "Food Name": "Sarda",
+  "Calories": 29,
+  "Proteins": 0.7,
+  "Fats": 0.2,
+  "Carbs": 5.4
+},
+{
+  "_id": {
+    "$oid": "67a92f1439bc623085bf287d"
+  },
+  "Food Name": "Kinno",
+  "Calories": 44,
+  "Proteins": 0.7,
+  "Fats": 0.2,
+  "Carbs": 11.6
+},
+{
+  "_id": {
+    "$oid": "67a92f1439bc623085bf287e"
+  },
+  "Food Name": "Narangi",
+  "Calories": 46,
+  "Proteins": 0.8,
+  "Fats": 0.2,
+  "Carbs": 10
+},
+{
+  "_id": {
+    "$oid": "67a92f1439bc623085bf2880"
+  },
+  "Food Name": "Aloo Bukhara",
+  "Calories": 47,
+  "Proteins": 0.7,
+  "Fats": 0.2,
+  "Carbs": 11.4
+},
+{
+  "_id": {
+    "$oid": "67a92f1439bc623085bf2886"
+  },
+  "Food Name": "Papita",
+  "Calories": 43,
+  "Proteins": 0.4,
+  "Fats": 0.3,
+  "Carbs": 11.2
+},
+{
+  "_id": {
+    "$oid": "67a92f1439bc623085bf2888"
+  },
+  "Food Name": "Strawberry",
+  "Calories": 35,
+  "Proteins": 0.7,
+  "Fats": 0.4,
+  "Carbs": 7.8
+}]
