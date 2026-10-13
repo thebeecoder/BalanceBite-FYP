@@ -1,4 +1,4 @@
-# BalanceBite
+# BalanceBite - FINAL YEAR PROJECT (BS(AI))
 
 BalanceBite is a Flutter project developed as a Final Year Project. It focuses on nutrition and balanced eating and includes trained model files used by the application.
 
