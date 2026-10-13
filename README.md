@@ -15,7 +15,7 @@ BalanceBite is a Flutter project developed as a Final Year Project. It focuses o
 
 ## Trained Models
 
-The trained model files are hosted on Google Drive because they are too large to store in this repository. Download links and placement instructions are in [`assets/MODEL_DOWNLOADS.txt`](assets/MODEL_DOWNLOADS.txt). Download the files and place them at the paths expected by the app.
+The trained model files are hosted on Google Drive because they are too large to store in this repository. Download links and placement instructions are in [`Project/assets/MODEL_DOWNLOADS.txt`](assets/MODEL_DOWNLOADS.txt). Download the files and place them at the paths expected by the app.
 
 ## Run the Project
 
